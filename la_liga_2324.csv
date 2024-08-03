@@ -1,0 +1,761 @@
+comp,season,round,date,time,day,team,opponent,venue,result,gf,ga,poss,attendance,captain,formation,referee,venue_code,opp_code,hour,day_code,target
+La Liga,2023-2024,Matchweek 1,2023-08-12,21:30,Sat,Real Madrid,Athletic Club,Away,W,2,0,54.0,48927.0,Dani Carvajal,4-1-2-1-2◆,Jesús Gil,0,2,21,5,1
+La Liga,2023-2024,Matchweek 2,2023-08-19,19:30,Sat,Real Madrid,Almería,Away,W,3,1,57.0,17561.0,Dani Carvajal,4-3-1-2,José Sánchez,0,1,19,5,1
+La Liga,2023-2024,Matchweek 3,2023-08-25,21:30,Fri,Real Madrid,Celta Vigo,Away,W,1,0,63.0,23057.0,Dani Carvajal,4-1-2-1-2◆,Isidro Díaz de Mera,0,6,21,4,1
+La Liga,2023-2024,Matchweek 4,2023-09-02,16:15,Sat,Real Madrid,Getafe,Home,W,2,1,76.0,66747.0,Luka Modrić,4-3-1-2,Mario Melero,1,8,16,5,1
+La Liga,2023-2024,Matchweek 5,2023-09-17,21:00,Sun,Real Madrid,Real Sociedad,Home,W,2,1,52.0,70092.0,Dani Carvajal,4-1-2-1-2◆,César Soto,1,16,21,6,1
+La Liga,2023-2024,Matchweek 6,2023-09-24,21:00,Sun,Real Madrid,Atlético Madrid,Away,L,1,3,63.0,69082.0,Luka Modrić,4-1-2-1-2◆,Javier Alberola,0,3,21,6,2
+La Liga,2023-2024,Matchweek 7,2023-09-27,19:00,Wed,Real Madrid,Las Palmas,Home,W,2,0,48.0,65017.0,Nacho,4-3-1-2,José Luis Munuera,1,11,19,2,1
+La Liga,2023-2024,Matchweek 8,2023-09-30,18:30,Sat,Real Madrid,Girona,Away,W,3,0,48.0,14184.0,Nacho,4-3-1-2,Juan Pulido,0,9,18,5,1
+La Liga,2023-2024,Matchweek 9,2023-10-07,16:15,Sat,Real Madrid,Osasuna,Home,W,4,0,67.0,70864.0,Luka Modrić,4-3-1-2,Guillermo Cuadra,1,13,16,5,1
+La Liga,2023-2024,Matchweek 10,2023-10-21,18:30,Sat,Real Madrid,Sevilla,Away,D,1,1,51.0,41212.0,Dani Carvajal,4-1-2-1-2◆,Ricardo de Burgos,0,17,18,5,0
+La Liga,2023-2024,Matchweek 11,2023-10-28,16:15,Sat,Real Madrid,Barcelona,Away,W,2,1,47.0,50112.0,Dani Carvajal,4-1-3-2,Jesús Gil,0,4,16,5,1
+La Liga,2023-2024,Matchweek 12,2023-11-05,21:00,Sun,Real Madrid,Rayo Vallecano,Home,D,0,0,63.0,70220.0,Luka Modrić,4-3-1-2,Juan Martínez,1,14,21,6,0
+La Liga,2023-2024,Matchweek 13,2023-11-11,21:00,Sat,Real Madrid,Valencia,Home,W,5,1,56.0,72475.0,Nacho,4-4-2,José Sánchez,1,18,21,5,1
+La Liga,2023-2024,Matchweek 14,2023-11-26,18:30,Sun,Real Madrid,Cádiz,Away,W,3,0,61.0,20325.0,Nacho,4-2-2-2,Guillermo Cuadra,0,7,18,6,1
+La Liga,2023-2024,Matchweek 15,2023-12-02,18:30,Sat,Real Madrid,Granada,Home,W,2,0,71.0,70685.0,Dani Carvajal,4-4-2,Pablo González,1,10,18,5,1
+La Liga,2023-2024,Matchweek 16,2023-12-09,16:15,Sat,Real Madrid,Betis,Away,D,1,1,63.0,52756.0,Luka Modrić,4-2-3-1,César Soto,0,5,16,5,0
+La Liga,2023-2024,Matchweek 17,2023-12-17,21:00,Sun,Real Madrid,Villarreal,Home,W,4,1,60.0,70500.0,Luka Modrić,4-4-2,Jorge Figueroa,1,19,21,6,1
+La Liga,2023-2024,Matchweek 18,2023-12-21,21:30,Thu,Real Madrid,Alavés,Away,W,1,0,60.0,19275.0,Nacho,4-3-1-2,Isidro Díaz de Mera,0,0,21,3,1
+La Liga,2023-2024,Matchweek 19,2024-01-03,19:15,Wed,Real Madrid,Mallorca,Home,W,1,0,67.0,72394.0,Luka Modrić,4-2-2-2,Alejandro Muñíz,1,12,19,2,1
+La Liga,2023-2024,Matchweek 21,2024-01-21,16:15,Sun,Real Madrid,Almería,Home,W,3,2,73.0,72044.0,Nacho,4-3-1-2,Francisco Hernández,1,1,16,6,1
+La Liga,2023-2024,Matchweek 22,2024-01-27,15:15,Sat,Real Madrid,Las Palmas,Away,W,2,1,47.0,32037.0,Nacho,4-3-1-2,César Soto,0,11,15,5,1
+La Liga,2023-2024,Matchweek 20,2024-02-01,21:00,Thu,Real Madrid,Getafe,Away,W,2,0,58.0,15264.0,Nacho,4-3-1-2,Ricardo de Burgos,0,8,21,3,1
+La Liga,2023-2024,Matchweek 23,2024-02-04,21:00,Sun,Real Madrid,Atlético Madrid,Home,D,1,1,54.0,76732.0,Nacho,4-3-1-2,José Sánchez,1,3,21,6,0
+La Liga,2023-2024,Matchweek 24,2024-02-10,18:30,Sat,Real Madrid,Girona,Home,W,4,0,53.0,76585.0,Dani Carvajal,4-3-1-2,Juan Martínez,1,9,18,5,1
+La Liga,2023-2024,Matchweek 25,2024-02-18,14:00,Sun,Real Madrid,Rayo Vallecano,Away,D,1,1,59.0,14354.0,Nacho,4-2-3-1,Alejandro Muñíz,0,14,14,6,0
+La Liga,2023-2024,Matchweek 26,2024-02-25,21:00,Sun,Real Madrid,Sevilla,Home,W,1,0,64.0,74969.0,Nacho,4-3-3,Isidro Díaz de Mera,1,17,21,6,1
+La Liga,2023-2024,Matchweek 27,2024-03-02,21:00,Sat,Real Madrid,Valencia,Away,D,2,2,70.0,47427.0,Dani Carvajal,4-3-1-2,Jesús Gil,0,18,21,5,0
+La Liga,2023-2024,Matchweek 28,2024-03-10,18:30,Sun,Real Madrid,Celta Vigo,Home,W,4,0,62.0,73644.0,Nacho,4-3-1-2,Mario Melero,1,6,18,6,1
+La Liga,2023-2024,Matchweek 29,2024-03-16,16:15,Sat,Real Madrid,Osasuna,Away,W,4,2,64.0,22430.0,Dani Carvajal,4-3-3,Juan Martínez,0,13,16,5,1
+La Liga,2023-2024,Matchweek 30,2024-03-31,21:00,Sun,Real Madrid,Athletic Club,Home,W,2,0,58.0,72991.0,Nacho,4-2-2-2,Javier Alberola,1,2,21,6,1
+La Liga,2023-2024,Matchweek 31,2024-04-13,18:30,Sat,Real Madrid,Mallorca,Away,W,1,0,56.0,23244.0,Nacho,4-2-3-1,José Sánchez,0,12,18,5,1
+La Liga,2023-2024,Matchweek 32,2024-04-21,21:00,Sun,Real Madrid,Barcelona,Home,W,3,2,47.0,77981.0,Luka Modrić,4-1-2-1-2◆,César Soto,1,4,21,6,1
+La Liga,2023-2024,Matchweek 33,2024-04-26,21:00,Fri,Real Madrid,Real Sociedad,Away,W,1,0,44.0,37109.0,Nacho,4-2-3-1,José Luis Munuera,0,16,21,4,1
+La Liga,2023-2024,Matchweek 34,2024-05-04,16:15,Sat,Real Madrid,Cádiz,Home,W,3,0,70.0,72654.0,Nacho,4-3-3,Javier Villanueva,1,7,16,5,1
+La Liga,2023-2024,Matchweek 35,2024-05-11,18:30,Sat,Real Madrid,Granada,Away,W,4,0,58.0,20058.0,Luka Modrić,4-3-3,Pablo González,0,10,18,5,1
+La Liga,2023-2024,Matchweek 36,2024-05-14,21:30,Tue,Real Madrid,Alavés,Home,W,5,0,71.0,68954.0,Nacho,4-3-1-2,Mateo Busquets,1,0,21,1,1
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Real Madrid,Villarreal,Away,D,4,4,57.0,21671.0,Luka Modrić,4-2-3-1,Alejandro Hernández,0,19,19,6,0
+La Liga,2023-2024,Matchweek 38,2024-05-25,21:00,Sat,Real Madrid,Betis,Home,D,0,0,59.0,73614.0,Nacho,4-3-1-2,Isidro Díaz de Mera,1,5,21,5,0
+La Liga,2023-2024,Matchweek 1,2023-08-13,21:30,Sun,Barcelona,Getafe,Away,D,0,0,74.0,13410.0,Marc-André ter Stegen,4-2-3-1,César Soto,0,8,21,6,0
+La Liga,2023-2024,Matchweek 2,2023-08-20,19:30,Sun,Barcelona,Cádiz,Home,W,2,0,74.0,39603.0,Marc-André ter Stegen,3-4-3,Alejandro Muñíz,1,7,19,6,1
+La Liga,2023-2024,Matchweek 3,2023-08-27,17:30,Sun,Barcelona,Villarreal,Away,W,4,3,60.0,21679.0,Sergi Roberto,4-3-3,Alejandro Hernández,0,19,17,6,1
+La Liga,2023-2024,Matchweek 4,2023-09-03,21:00,Sun,Barcelona,Osasuna,Away,W,2,1,69.0,21966.0,Sergi Roberto,4-3-3,Miguel Ángel Ortiz Arias,0,13,21,6,1
+La Liga,2023-2024,Matchweek 5,2023-09-16,21:00,Sat,Barcelona,Betis,Home,W,5,0,65.0,45055.0,Marc-André ter Stegen,4-3-3,José Sánchez,1,5,21,5,1
+La Liga,2023-2024,Matchweek 6,2023-09-23,18:30,Sat,Barcelona,Celta Vigo,Home,W,3,2,74.0,43272.0,Marc-André ter Stegen,4-3-3,Mario Melero,1,6,18,5,1
+La Liga,2023-2024,Matchweek 7,2023-09-26,21:30,Tue,Barcelona,Mallorca,Away,D,2,2,69.0,19939.0,Marc-André ter Stegen,4-3-3,Alejandro Muñíz,0,12,21,1,0
+La Liga,2023-2024,Matchweek 8,2023-09-29,21:00,Fri,Barcelona,Sevilla,Home,W,1,0,58.0,41116.0,Marc-André ter Stegen,4-3-3,Miguel Ángel Ortiz Arias,1,17,21,4,1
+La Liga,2023-2024,Matchweek 9,2023-10-08,21:00,Sun,Barcelona,Granada,Away,D,2,2,80.0,20354.0,Marc-André ter Stegen,4-3-3,César Soto,0,10,21,6,0
+La Liga,2023-2024,Matchweek 10,2023-10-22,21:00,Sun,Barcelona,Athletic Club,Home,W,1,0,62.0,38194.0,Marc-André ter Stegen,4-3-3,Juan Martínez,1,2,21,6,1
+La Liga,2023-2024,Matchweek 11,2023-10-28,16:15,Sat,Barcelona,Real Madrid,Home,L,1,2,53.0,50112.0,Marc-André ter Stegen,3-4-1-2,Jesús Gil,1,15,16,5,2
+La Liga,2023-2024,Matchweek 12,2023-11-04,21:00,Sat,Barcelona,Real Sociedad,Away,W,1,0,49.0,37555.0,Marc-André ter Stegen,3-4-1-2,Javier Alberola,0,16,21,5,1
+La Liga,2023-2024,Matchweek 13,2023-11-12,16:15,Sun,Barcelona,Alavés,Home,W,2,1,71.0,38183.0,Marc-André ter Stegen,4-2-3-1,Mateo Busquets,1,0,16,6,1
+La Liga,2023-2024,Matchweek 14,2023-11-25,14:00,Sat,Barcelona,Rayo Vallecano,Away,D,1,1,67.0,14148.0,Frenkie de Jong,4-2-3-1,José Luis Munuera,0,14,14,5,0
+La Liga,2023-2024,Matchweek 15,2023-12-03,21:00,Sun,Barcelona,Atlético Madrid,Home,W,1,0,58.0,34568.0,Ronald Araújo,4-3-3,José Sánchez,1,3,21,6,1
+La Liga,2023-2024,Matchweek 16,2023-12-10,21:00,Sun,Barcelona,Girona,Home,L,2,4,54.0,42848.0,Ronald Araújo,4-3-3,Isidro Díaz de Mera,1,9,21,6,2
+La Liga,2023-2024,Matchweek 17,2023-12-16,21:00,Sat,Barcelona,Valencia,Away,D,1,1,63.0,46492.0,Ronald Araújo,4-3-3,Miguel Ángel Ortiz Arias,0,18,21,5,0
+La Liga,2023-2024,Matchweek 18,2023-12-20,19:00,Wed,Barcelona,Almería,Home,W,3,2,65.0,34471.0,Sergi Roberto,4-3-3,Guillermo Cuadra,1,1,19,2,1
+La Liga,2023-2024,Matchweek 19,2024-01-04,20:30,Thu,Barcelona,Las Palmas,Away,W,2,1,56.0,31712.0,Sergi Roberto,4-3-3,Pablo González,0,11,20,3,1
+La Liga,2023-2024,Matchweek 21,2024-01-21,18:30,Sun,Barcelona,Betis,Away,W,4,2,63.0,53288.0,Ronald Araújo,4-3-3,Jesús Gil,0,5,18,6,1
+La Liga,2023-2024,Matchweek 22,2024-01-27,18:30,Sat,Barcelona,Villarreal,Home,L,3,5,70.0,46229.0,Ronald Araújo,4-3-3,José Luis Munuera,1,19,18,5,2
+La Liga,2023-2024,Matchweek 20,2024-01-31,19:00,Wed,Barcelona,Osasuna,Home,W,1,0,68.0,37888.0,Ronald Araújo,4-3-3,Jorge Figueroa,1,13,19,2,1
+La Liga,2023-2024,Matchweek 23,2024-02-03,18:30,Sat,Barcelona,Alavés,Away,W,3,1,64.0,19480.0,Ronald Araújo,4-3-3,Juan Martínez,0,0,18,5,1
+La Liga,2023-2024,Matchweek 24,2024-02-11,21:00,Sun,Barcelona,Granada,Home,D,3,3,65.0,41901.0,Marc-André ter Stegen,4-3-3,Miguel Ángel Ortiz Arias,1,10,21,6,0
+La Liga,2023-2024,Matchweek 25,2024-02-17,18:30,Sat,Barcelona,Celta Vigo,Away,W,2,1,66.0,23096.0,Marc-André ter Stegen,4-3-3,Juan Pulido,0,6,18,5,1
+La Liga,2023-2024,Matchweek 26,2024-02-24,16:15,Sat,Barcelona,Getafe,Home,W,4,0,67.0,36803.0,Marc-André ter Stegen,4-3-3,Alejandro Muñíz,1,8,16,5,1
+La Liga,2023-2024,Matchweek 27,2024-03-03,21:00,Sun,Barcelona,Athletic Club,Away,D,0,0,60.0,50295.0,Marc-André ter Stegen,4-3-3,Alejandro Hernández,0,2,21,6,0
+La Liga,2023-2024,Matchweek 28,2024-03-08,21:00,Fri,Barcelona,Mallorca,Home,W,1,0,63.0,38225.0,Marc-André ter Stegen,4-3-3,Javier Villanueva,1,12,21,4,1
+La Liga,2023-2024,Matchweek 29,2024-03-17,21:00,Sun,Barcelona,Atlético Madrid,Away,W,3,0,59.0,68253.0,Sergi Roberto,4-3-3,José Sánchez,0,3,21,6,1
+La Liga,2023-2024,Matchweek 30,2024-03-30,21:00,Sat,Barcelona,Las Palmas,Home,W,1,0,69.0,46788.0,Sergi Roberto,4-3-3,Mateo Busquets,1,11,21,5,1
+La Liga,2023-2024,Matchweek 31,2024-04-13,21:00,Sat,Barcelona,Cádiz,Away,W,1,0,62.0,19607.0,Sergi Roberto,4-3-3,Juan Pulido,0,7,21,5,1
+La Liga,2023-2024,Matchweek 32,2024-04-21,21:00,Sun,Barcelona,Real Madrid,Away,L,2,3,53.0,77981.0,Marc-André ter Stegen,4-3-3,César Soto,0,15,21,6,2
+La Liga,2023-2024,Matchweek 33,2024-04-29,21:00,Mon,Barcelona,Valencia,Home,W,4,2,80.0,30167.0,Marc-André ter Stegen,4-3-3,Ricardo de Burgos,1,18,21,0,1
+La Liga,2023-2024,Matchweek 34,2024-05-04,18:30,Sat,Barcelona,Girona,Away,L,2,4,60.0,14090.0,Sergi Roberto,4-3-3,Alejandro Hernández,0,9,18,5,2
+La Liga,2023-2024,Matchweek 35,2024-05-13,21:00,Mon,Barcelona,Real Sociedad,Home,W,2,0,56.0,35829.0,Marc-André ter Stegen,4-3-3,Guillermo Cuadra,1,16,21,0,1
+La Liga,2023-2024,Matchweek 36,2024-05-16,21:30,Thu,Barcelona,Almería,Away,W,2,0,64.0,15543.0,Sergi Roberto,4-3-3,Javier Alberola,0,1,21,3,1
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Barcelona,Rayo Vallecano,Home,W,3,0,72.0,35823.0,Sergi Roberto,4-2-3-1,Jesús Gil,1,14,19,6,1
+La Liga,2023-2024,Matchweek 38,2024-05-26,21:00,Sun,Barcelona,Sevilla,Away,W,2,1,61.0,34888.0,Marc-André ter Stegen,4-3-3,Javier Villanueva,0,17,21,6,1
+La Liga,2023-2024,Matchweek 1,2023-08-12,17:00,Sat,Girona,Real Sociedad,Away,D,1,1,52.0,30848.0,Cristhian Stuani,4-1-4-1,Francisco Hernández,0,16,17,5,0
+La Liga,2023-2024,Matchweek 2,2023-08-20,19:00,Sun,Girona,Getafe,Home,W,3,0,63.0,11784.0,Cristhian Stuani,4-1-4-1,Jorge Figueroa,1,8,19,6,1
+La Liga,2023-2024,Matchweek 3,2023-08-26,21:30,Sat,Girona,Sevilla,Away,W,2,1,48.0,29304.0,Cristhian Stuani,4-1-4-1,Jesús Gil,0,17,21,5,1
+La Liga,2023-2024,Matchweek 4,2023-09-03,14:00,Sun,Girona,Las Palmas,Home,W,1,0,46.0,11619.0,Cristhian Stuani,4-1-4-1,Mateo Busquets,1,11,14,6,1
+La Liga,2023-2024,Matchweek 5,2023-09-18,21:00,Mon,Girona,Granada,Away,W,4,2,57.0,17323.0,Aleix García,4-1-4-1,Isidro Díaz de Mera,0,10,21,0,1
+La Liga,2023-2024,Matchweek 6,2023-09-23,14:00,Sat,Girona,Mallorca,Home,W,5,3,56.0,11511.0,Aleix García,4-1-4-1,Pablo González,1,12,14,5,1
+La Liga,2023-2024,Matchweek 7,2023-09-27,19:00,Wed,Girona,Villarreal,Away,W,2,1,47.0,17188.0,Aleix García,4-1-4-1,José Sánchez,0,19,19,2,1
+La Liga,2023-2024,Matchweek 8,2023-09-30,18:30,Sat,Girona,Real Madrid,Home,L,0,3,52.0,14184.0,Aleix García,4-1-4-1,Juan Pulido,1,15,18,5,2
+La Liga,2023-2024,Matchweek 9,2023-10-07,14:00,Sat,Girona,Cádiz,Away,W,1,0,73.0,16438.0,Aleix García,3-4-3,Juan Martínez,0,7,14,5,1
+La Liga,2023-2024,Matchweek 10,2023-10-22,16:15,Sun,Girona,Almería,Home,W,5,2,66.0,12884.0,Aleix García,3-4-3,Miguel Ángel Ortiz Arias,1,1,16,6,1
+La Liga,2023-2024,Matchweek 11,2023-10-27,21:00,Fri,Girona,Celta Vigo,Home,W,1,0,65.0,12671.0,Aleix García,3-4-3,Isidro Díaz de Mera,1,6,21,4,1
+La Liga,2023-2024,Matchweek 12,2023-11-04,14:00,Sat,Girona,Osasuna,Away,W,4,2,50.0,20100.0,Aleix García,3-4-3,José Luis Munuera,0,13,14,5,1
+La Liga,2023-2024,Matchweek 13,2023-11-11,14:00,Sat,Girona,Rayo Vallecano,Away,W,2,1,54.0,13177.0,Aleix García,3-4-3,Pablo González,0,14,14,5,1
+La Liga,2023-2024,Matchweek 14,2023-11-27,21:00,Mon,Girona,Athletic Club,Home,D,1,1,60.0,13123.0,Cristhian Stuani,4-4-1-1,Mario Melero,1,2,21,0,0
+La Liga,2023-2024,Matchweek 15,2023-12-02,14:00,Sat,Girona,Valencia,Home,W,2,1,75.0,13343.0,Aleix García,3-4-3,Javier Villanueva,1,18,14,5,1
+La Liga,2023-2024,Matchweek 16,2023-12-10,21:00,Sun,Girona,Barcelona,Away,W,4,2,46.0,42848.0,Aleix García,3-4-3,Isidro Díaz de Mera,0,4,21,6,1
+La Liga,2023-2024,Matchweek 17,2023-12-18,21:00,Mon,Girona,Alavés,Home,W,3,0,66.0,11812.0,Aleix García,3-4-3,Francisco Hernández,1,0,21,0,1
+La Liga,2023-2024,Matchweek 18,2023-12-21,19:00,Thu,Girona,Betis,Away,D,1,1,53.0,51394.0,Aleix García,4-2-3-1,Ricardo de Burgos,0,5,19,3,0
+La Liga,2023-2024,Matchweek 19,2024-01-03,21:30,Wed,Girona,Atlético Madrid,Home,W,4,3,52.0,13804.0,Valery Fernández,4-4-1-1,Alejandro Hernández,1,3,21,2,1
+La Liga,2023-2024,Matchweek 20,2024-01-14,14:00,Sun,Girona,Almería,Away,D,0,0,54.0,12111.0,Juanpe,4-4-1-1,Mateo Busquets,0,1,14,6,0
+La Liga,2023-2024,Matchweek 21,2024-01-21,21:00,Sun,Girona,Sevilla,Home,W,5,1,55.0,13092.0,Juanpe,4-4-2,Pablo González,1,17,21,6,1
+La Liga,2023-2024,Matchweek 22,2024-01-28,14:00,Sun,Girona,Celta Vigo,Away,W,1,0,60.0,20684.0,Aleix García,4-2-3-1,Mario Melero,0,6,14,6,1
+La Liga,2023-2024,Matchweek 23,2024-02-03,21:00,Sat,Girona,Real Sociedad,Home,D,0,0,49.0,13755.0,Aleix García,4-2-3-1,Jesús Gil,1,16,21,5,0
+La Liga,2023-2024,Matchweek 24,2024-02-10,18:30,Sat,Girona,Real Madrid,Away,L,0,4,47.0,76585.0,Juanpe,4-2-3-1,Juan Martínez,0,15,18,5,2
+La Liga,2023-2024,Matchweek 25,2024-02-19,21:00,Mon,Girona,Athletic Club,Away,L,2,3,69.0,46220.0,Juanpe,4-2-3-1,José Sánchez,0,2,21,0,2
+La Liga,2023-2024,Matchweek 26,2024-02-26,21:00,Mon,Girona,Rayo Vallecano,Home,W,3,0,54.0,8923.0,Aleix García,4-2-3-1,Ricardo de Burgos,1,14,21,0,1
+La Liga,2023-2024,Matchweek 27,2024-03-03,18:30,Sun,Girona,Mallorca,Away,L,0,1,60.0,17769.0,Juanpe,4-2-3-1,Francisco Hernández,0,12,18,6,2
+La Liga,2023-2024,Matchweek 28,2024-03-09,21:00,Sat,Girona,Osasuna,Home,W,2,0,60.0,11598.0,Aleix García,3-4-3,Mateo Busquets,1,13,21,5,1
+La Liga,2023-2024,Matchweek 29,2024-03-16,18:30,Sat,Girona,Getafe,Away,L,0,1,59.0,12912.0,Juanpe,4-2-3-1,José Luis Munuera,0,8,18,5,2
+La Liga,2023-2024,Matchweek 30,2024-03-31,16:15,Sun,Girona,Betis,Home,W,3,2,57.0,12774.0,Aleix García,3-4-3,Jesús Gil,1,5,16,6,1
+La Liga,2023-2024,Matchweek 31,2024-04-13,14:00,Sat,Girona,Atlético Madrid,Away,L,1,3,59.0,64214.0,Aleix García,4-5-1,Ricardo de Burgos,0,3,14,5,2
+La Liga,2023-2024,Matchweek 32,2024-04-20,21:00,Sat,Girona,Cádiz,Home,W,4,1,57.0,12665.0,Aleix García,4-2-3-1,Javier Alberola,1,7,21,5,1
+La Liga,2023-2024,Matchweek 33,2024-04-27,13:00,Sat,Girona,Las Palmas,Away,W,2,0,39.0,18734.0,Aleix García,4-2-3-1,Jorge Figueroa,0,11,13,5,1
+La Liga,2023-2024,Matchweek 34,2024-05-04,18:30,Sat,Girona,Barcelona,Home,W,4,2,40.0,14090.0,Aleix García,4-2-3-1,Alejandro Hernández,1,4,18,5,1
+La Liga,2023-2024,Matchweek 35,2024-05-10,21:00,Fri,Girona,Alavés,Away,D,2,2,64.0,17906.0,Arnau Martinez,4-2-3-1,José Luis Munuera,0,0,21,4,0
+La Liga,2023-2024,Matchweek 36,2024-05-14,22:00,Tue,Girona,Villarreal,Home,L,0,1,67.0,11440.0,Aleix García,4-2-3-1,José Sánchez,1,19,22,1,2
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Girona,Valencia,Away,W,3,1,63.0,36138.0,Aleix García,4-2-3-1,Guillermo Cuadra,0,18,19,6,1
+La Liga,2023-2024,Matchweek 38,2024-05-24,21:00,Fri,Girona,Granada,Home,W,7,0,70.0,12813.0,Aleix García,4-3-3,Alejandro Muñíz,1,10,21,4,1
+La Liga,2023-2024,Matchweek 1,2023-08-14,21:30,Mon,Atletico Madrid,Granada,Home,W,3,1,46.0,56164.0,Koke,3-5-2,Juan Pulido,1,10,21,0,1
+La Liga,2023-2024,Matchweek 2,2023-08-20,21:30,Sun,Atletico Madrid,Betis,Away,D,0,0,47.0,51782.0,Jan Oblak,5-3-2,Ricardo de Burgos,0,5,21,6,0
+La Liga,2023-2024,Matchweek 3,2023-08-28,21:30,Mon,Atletico Madrid,Rayo Vallecano,Away,W,7,0,44.0,13966.0,Jan Oblak,5-3-2,José Luis Munuera,0,14,21,0,1
+La Liga,2023-2024,Matchweek 5,2023-09-16,16:15,Sat,Atletico Madrid,Valencia,Away,L,0,3,63.0,45363.0,Jan Oblak,5-3-2,Jesús Gil,0,18,16,5,2
+La Liga,2023-2024,Matchweek 6,2023-09-24,21:00,Sun,Atletico Madrid,Real Madrid,Home,W,3,1,37.0,69082.0,Koke,5-3-2,Javier Alberola,1,15,21,6,1
+La Liga,2023-2024,Matchweek 7,2023-09-28,21:30,Thu,Atletico Madrid,Osasuna,Away,W,2,0,45.0,20192.0,Koke,5-3-2,Juan Martínez,0,13,21,3,1
+La Liga,2023-2024,Matchweek 8,2023-10-01,21:00,Sun,Atletico Madrid,Cádiz,Home,W,3,2,69.0,53421.0,Koke,3-5-2,Javier Villanueva,1,7,21,6,1
+La Liga,2023-2024,Matchweek 9,2023-10-08,16:15,Sun,Atletico Madrid,Real Sociedad,Home,W,2,1,38.0,65607.0,Koke,3-5-2,José Luis Munuera,1,16,16,6,1
+La Liga,2023-2024,Matchweek 10,2023-10-21,21:00,Sat,Atletico Madrid,Celta Vigo,Away,W,3,0,64.0,20282.0,Koke,3-5-2,Guillermo Cuadra,0,6,21,5,1
+La Liga,2023-2024,Matchweek 11,2023-10-29,21:00,Sun,Atletico Madrid,Alavés,Home,W,2,1,63.0,50009.0,Koke,3-5-2,Alejandro Muñíz,1,0,21,6,1
+La Liga,2023-2024,Matchweek 12,2023-11-03,20:00,Fri,Atletico Madrid,Las Palmas,Away,L,1,2,48.0,30080.0,Koke,5-3-2,Mario Melero,0,11,20,4,2
+La Liga,2023-2024,Matchweek 13,2023-11-12,21:00,Sun,Atletico Madrid,Villarreal,Home,W,3,1,50.0,56632.0,Koke,3-5-2,Francisco Hernández,1,19,21,6,1
+La Liga,2023-2024,Matchweek 14,2023-11-25,21:00,Sat,Atletico Madrid,Mallorca,Home,W,1,0,68.0,58119.0,Koke,3-4-3,Juan Martínez,1,12,21,5,1
+La Liga,2023-2024,Matchweek 15,2023-12-03,21:00,Sun,Atletico Madrid,Barcelona,Away,L,0,1,42.0,34568.0,Koke,5-3-2,José Sánchez,0,4,21,6,2
+La Liga,2023-2024,Matchweek 16,2023-12-10,14:00,Sun,Atletico Madrid,Almería,Home,W,2,1,57.0,55473.0,Koke,3-4-3,Ricardo de Burgos,1,1,14,6,1
+La Liga,2023-2024,Matchweek 17,2023-12-16,16:15,Sat,Atletico Madrid,Athletic Club,Away,L,0,2,62.0,48781.0,Koke,3-5-2,Jesús Gil,0,2,16,5,2
+La Liga,2023-2024,Matchweek 18,2023-12-19,21:30,Tue,Atletico Madrid,Getafe,Home,D,3,3,42.0,46401.0,Koke,3-5-2,José Luis Munuera,1,8,21,1,0
+La Liga,2023-2024,Matchweek 4,2023-12-23,16:15,Sat,Atletico Madrid,Sevilla,Home,W,1,0,50.0,64308.0,Koke,5-4-1,César Soto,1,17,16,5,1
+La Liga,2023-2024,Matchweek 19,2024-01-03,21:30,Wed,Atletico Madrid,Girona,Away,L,3,4,48.0,13804.0,Koke,3-1-4-2,Alejandro Hernández,0,9,21,2,2
+La Liga,2023-2024,Matchweek 21,2024-01-22,21:00,Mon,Atletico Madrid,Granada,Away,W,1,0,47.0,18704.0,Jan Oblak,3-5-2,Juan Martínez,0,10,21,0,1
+La Liga,2023-2024,Matchweek 22,2024-01-28,21:00,Sun,Atletico Madrid,Valencia,Home,W,2,0,54.0,59493.0,Koke,3-5-2,Ricardo de Burgos,1,18,21,6,1
+La Liga,2023-2024,Matchweek 20,2024-01-31,21:00,Wed,Atletico Madrid,Rayo Vallecano,Home,W,2,1,54.0,47003.0,Jan Oblak,3-5-2,César Soto,1,14,21,2,1
+La Liga,2023-2024,Matchweek 23,2024-02-04,21:00,Sun,Atletico Madrid,Real Madrid,Away,D,1,1,46.0,76732.0,Koke,3-5-2,José Sánchez,0,15,21,6,0
+La Liga,2023-2024,Matchweek 24,2024-02-11,18:30,Sun,Atletico Madrid,Sevilla,Away,L,0,1,61.0,31528.0,Koke,3-5-2,Javier Villanueva,0,17,18,6,2
+La Liga,2023-2024,Matchweek 25,2024-02-17,14:00,Sat,Atletico Madrid,Las Palmas,Home,W,5,0,36.0,61196.0,Koke,5-3-2,Jorge Figueroa,1,11,14,5,1
+La Liga,2023-2024,Matchweek 26,2024-02-24,21:00,Sat,Atletico Madrid,Almería,Away,D,2,2,60.0,14472.0,Koke,3-5-2,Javier Alberola,0,1,21,5,0
+La Liga,2023-2024,Matchweek 27,2024-03-03,16:15,Sun,Atletico Madrid,Betis,Home,W,2,1,42.0,61901.0,Koke,3-5-2,César Soto,1,5,16,6,1
+La Liga,2023-2024,Matchweek 28,2024-03-09,16:15,Sat,Atletico Madrid,Cádiz,Away,L,0,2,60.0,15917.0,Koke,5-3-2,Pablo González,0,7,16,5,2
+La Liga,2023-2024,Matchweek 29,2024-03-17,21:00,Sun,Atletico Madrid,Barcelona,Home,L,0,3,41.0,68253.0,Jan Oblak,3-4-3,José Sánchez,1,4,21,6,2
+La Liga,2023-2024,Matchweek 30,2024-04-01,21:00,Mon,Atletico Madrid,Villarreal,Away,W,2,1,48.0,19679.0,Koke,5-3-2,Mario Melero,0,19,21,0,1
+La Liga,2023-2024,Matchweek 31,2024-04-13,14:00,Sat,Atletico Madrid,Girona,Home,W,3,1,41.0,64214.0,Koke,4-4-2,Ricardo de Burgos,1,9,14,5,1
+La Liga,2023-2024,Matchweek 32,2024-04-21,18:30,Sun,Atletico Madrid,Alavés,Away,L,0,2,68.0,18719.0,Koke,3-5-2,Jesús Gil,0,0,18,6,2
+La Liga,2023-2024,Matchweek 33,2024-04-27,21:00,Sat,Atletico Madrid,Athletic Club,Home,W,3,1,42.0,64612.0,Koke,3-5-2,Juan Martínez,1,2,21,5,1
+La Liga,2023-2024,Matchweek 34,2024-05-04,21:00,Sat,Atletico Madrid,Mallorca,Away,W,1,0,41.0,20519.0,Koke,3-4-3,Javier Alberola,0,12,21,5,1
+La Liga,2023-2024,Matchweek 35,2024-05-12,16:15,Sun,Atletico Madrid,Celta Vigo,Home,W,1,0,56.0,63014.0,Koke,3-4-3,Jorge Figueroa,1,6,16,6,1
+La Liga,2023-2024,Matchweek 36,2024-05-15,22:00,Wed,Atletico Madrid,Getafe,Away,W,3,0,55.0,13027.0,Koke,5-4-1,Mario Melero,0,8,22,2,1
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Atletico Madrid,Osasuna,Home,L,1,4,56.0,58401.0,Koke,5-4-1,Pablo González,1,13,19,6,2
+La Liga,2023-2024,Matchweek 38,2024-05-25,16:15,Sat,Atletico Madrid,Real Sociedad,Away,W,2,0,41.0,30678.0,Koke,3-4-3,José Sánchez,0,16,16,5,1
+La Liga,2023-2024,Matchweek 1,2023-08-12,21:30,Sat,Athletic Club,Real Madrid,Home,L,0,2,46.0,48927.0,Iker Muniain,4-2-3-1,Jesús Gil,1,15,21,5,2
+La Liga,2023-2024,Matchweek 2,2023-08-19,21:30,Sat,Athletic Club,Osasuna,Away,W,2,0,37.0,20704.0,Óscar de Marcos,4-2-3-1,José Luis Munuera,0,13,21,5,1
+La Liga,2023-2024,Matchweek 3,2023-08-27,21:30,Sun,Athletic Club,Betis,Home,W,4,2,48.0,44340.0,Iker Muniain,4-2-3-1,César Soto,1,5,21,6,1
+La Liga,2023-2024,Matchweek 4,2023-09-03,16:15,Sun,Athletic Club,Mallorca,Away,D,0,0,67.0,17043.0,Iñaki Williams,4-2-3-1,Jorge Figueroa,0,12,16,6,0
+La Liga,2023-2024,Matchweek 5,2023-09-16,14:00,Sat,Athletic Club,Cádiz,Home,W,3,0,65.0,42881.0,Óscar de Marcos,4-2-3-1,Guillermo Cuadra,1,7,14,5,1
+La Liga,2023-2024,Matchweek 6,2023-09-22,21:00,Fri,Athletic Club,Alavés,Away,W,2,0,56.0,19421.0,Óscar de Marcos,4-2-3-1,Alejandro Muñíz,0,0,21,4,1
+La Liga,2023-2024,Matchweek 7,2023-09-27,19:00,Wed,Athletic Club,Getafe,Home,D,2,2,49.0,43091.0,Óscar de Marcos,4-2-3-1,Isidro Díaz de Mera,1,8,19,2,0
+La Liga,2023-2024,Matchweek 8,2023-09-30,21:00,Sat,Athletic Club,Real Sociedad,Away,L,0,3,49.0,38229.0,Iker Muniain,4-2-3-1,Jesús Gil,0,16,21,5,2
+La Liga,2023-2024,Matchweek 9,2023-10-06,21:00,Fri,Athletic Club,Almería,Home,W,3,0,59.0,43677.0,Óscar de Marcos,4-2-3-1,Víctor García,1,1,21,4,1
+La Liga,2023-2024,Matchweek 10,2023-10-22,21:00,Sun,Athletic Club,Barcelona,Away,L,0,1,38.0,38194.0,Óscar de Marcos,4-2-3-1,Juan Martínez,0,4,21,6,2
+La Liga,2023-2024,Matchweek 11,2023-10-29,18:30,Sun,Athletic Club,Valencia,Home,D,2,2,57.0,46563.0,Óscar de Marcos,4-2-3-1,Jorge Figueroa,1,18,18,6,0
+La Liga,2023-2024,Matchweek 12,2023-11-05,18:30,Sun,Athletic Club,Villarreal,Away,W,3,2,43.0,18709.0,Óscar de Marcos,4-2-3-1,Guillermo Cuadra,0,19,18,6,1
+La Liga,2023-2024,Matchweek 13,2023-11-10,21:00,Fri,Athletic Club,Celta Vigo,Home,W,4,3,58.0,44435.0,Óscar de Marcos,4-2-3-1,Juan Pulido,1,6,21,4,1
+La Liga,2023-2024,Matchweek 14,2023-11-27,21:00,Mon,Athletic Club,Girona,Away,D,1,1,40.0,13123.0,Óscar de Marcos,4-2-3-1,Mario Melero,0,9,21,0,0
+La Liga,2023-2024,Matchweek 15,2023-12-02,16:15,Sat,Athletic Club,Rayo Vallecano,Home,W,4,0,51.0,44689.0,Óscar de Marcos,4-2-3-1,Francisco Hernández,1,14,16,5,1
+La Liga,2023-2024,Matchweek 16,2023-12-11,21:00,Mon,Athletic Club,Granada,Away,D,1,1,52.0,12849.0,Óscar de Marcos,4-2-3-1,Miguel Ángel Ortiz Arias,0,10,21,0,0
+La Liga,2023-2024,Matchweek 17,2023-12-16,16:15,Sat,Athletic Club,Atlético Madrid,Home,W,2,0,38.0,48781.0,Iñaki Williams,4-2-3-1,Jesús Gil,1,3,16,5,1
+La Liga,2023-2024,Matchweek 18,2023-12-20,21:30,Wed,Athletic Club,Las Palmas,Home,W,1,0,50.0,39471.0,Iñaki Williams,4-2-3-1,Juan Martínez,1,11,21,2,1
+La Liga,2023-2024,Matchweek 19,2024-01-04,19:15,Thu,Athletic Club,Sevilla,Away,W,2,0,39.0,28366.0,Iñigo Lekue,4-2-3-1,José Sánchez,0,17,19,3,1
+La Liga,2023-2024,Matchweek 20,2024-01-13,18:30,Sat,Athletic Club,Real Sociedad,Home,W,2,1,49.0,51475.0,Iñigo Lekue,4-2-3-1,José Luis Munuera,1,16,18,5,1
+La Liga,2023-2024,Matchweek 21,2024-01-20,18:30,Sat,Athletic Club,Valencia,Away,L,0,1,60.0,45344.0,Iñigo Lekue,4-2-3-1,Juan Pulido,0,18,18,5,2
+La Liga,2023-2024,Matchweek 22,2024-01-28,16:15,Sun,Athletic Club,Cádiz,Away,D,0,0,57.0,18839.0,Óscar de Marcos,4-2-3-1,Mateo Busquets,0,7,16,6,0
+La Liga,2023-2024,Matchweek 23,2024-02-02,21:00,Fri,Athletic Club,Mallorca,Home,W,4,0,62.0,47061.0,Óscar de Marcos,4-2-3-1,Jorge Figueroa,1,12,21,4,1
+La Liga,2023-2024,Matchweek 24,2024-02-12,21:00,Mon,Athletic Club,Almería,Away,D,0,0,61.0,12863.0,Óscar de Marcos,4-2-3-1,Víctor García,0,1,21,0,0
+La Liga,2023-2024,Matchweek 25,2024-02-19,21:00,Mon,Athletic Club,Girona,Home,W,3,2,31.0,46220.0,Iñaki Williams,4-2-3-1,José Sánchez,1,9,21,0,1
+La Liga,2023-2024,Matchweek 26,2024-02-25,16:15,Sun,Athletic Club,Betis,Away,L,1,3,43.0,53537.0,Óscar de Marcos,4-2-3-1,Guillermo Cuadra,0,5,16,6,2
+La Liga,2023-2024,Matchweek 27,2024-03-03,21:00,Sun,Athletic Club,Barcelona,Home,D,0,0,40.0,50295.0,Iñaki Williams,4-2-3-1,Alejandro Hernández,1,4,21,6,0
+La Liga,2023-2024,Matchweek 28,2024-03-10,15:15,Sun,Athletic Club,Las Palmas,Away,W,2,0,30.0,27316.0,Óscar de Marcos,4-2-3-1,Miguel Ángel Ortiz Arias,0,11,15,6,1
+La Liga,2023-2024,Matchweek 29,2024-03-16,21:00,Sat,Athletic Club,Alavés,Home,W,2,0,59.0,48257.0,Óscar de Marcos,4-2-3-1,Alejandro Muñíz,1,0,21,5,1
+La Liga,2023-2024,Matchweek 30,2024-03-31,21:00,Sun,Athletic Club,Real Madrid,Away,L,0,2,42.0,72991.0,Óscar de Marcos,4-2-3-1,Javier Alberola,0,15,21,6,2
+La Liga,2023-2024,Matchweek 31,2024-04-14,18:30,Sun,Athletic Club,Villarreal,Home,D,1,1,53.0,50061.0,Óscar de Marcos,4-2-3-1,Guillermo Cuadra,1,19,18,6,0
+La Liga,2023-2024,Matchweek 32,2024-04-19,21:00,Fri,Athletic Club,Granada,Home,D,1,1,67.0,45917.0,Óscar de Marcos,4-2-3-1,Javier Villanueva,1,10,21,4,0
+La Liga,2023-2024,Matchweek 33,2024-04-27,21:00,Sat,Athletic Club,Atlético Madrid,Away,L,1,3,58.0,64612.0,Iñaki Williams,4-2-3-1,Juan Martínez,0,3,21,5,2
+La Liga,2023-2024,Matchweek 34,2024-05-03,21:00,Fri,Athletic Club,Getafe,Away,W,2,0,36.0,12149.0,Óscar de Marcos,4-2-3-1,Jesús Gil,0,8,21,4,1
+La Liga,2023-2024,Matchweek 35,2024-05-11,21:00,Sat,Athletic Club,Osasuna,Home,D,2,2,67.0,45273.0,Iker Muniain,4-2-3-1,José Sánchez,1,13,21,5,0
+La Liga,2023-2024,Matchweek 36,2024-05-15,22:00,Wed,Athletic Club,Celta Vigo,Away,L,1,2,47.0,21301.0,Iñigo Lekue,4-2-3-1,Víctor García,0,6,22,2,2
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Athletic Club,Sevilla,Home,W,2,0,53.0,44717.0,Iker Muniain,4-2-3-1,Juan Pulido,1,17,19,6,1
+La Liga,2023-2024,Matchweek 38,2024-05-25,18:30,Sat,Athletic Club,Rayo Vallecano,Away,W,1,0,37.0,13090.0,Iñigo Lekue,4-2-3-1,José Luis Munuera,0,14,18,5,1
+La Liga,2023-2024,Matchweek 1,2023-08-12,17:00,Sat,Real Sociedad,Girona,Home,D,1,1,48.0,30848.0,Mikel Oyarzabal,4-3-3,Francisco Hernández,1,9,17,5,0
+La Liga,2023-2024,Matchweek 2,2023-08-19,17:00,Sat,Real Sociedad,Celta Vigo,Home,D,1,1,53.0,30354.0,Igor Zubeldia,4-3-3,Miguel Ángel Ortiz Arias,1,6,17,5,0
+La Liga,2023-2024,Matchweek 3,2023-08-25,18:30,Fri,Real Sociedad,Las Palmas,Away,D,0,0,48.0,25335.0,Mikel Merino,4-2-3-1,Guillermo Cuadra,0,11,18,4,0
+La Liga,2023-2024,Matchweek 4,2023-09-02,14:00,Sat,Real Sociedad,Granada,Home,W,5,3,61.0,27808.0,Mikel Oyarzabal,4-3-3,Javier Villanueva,1,10,14,5,1
+La Liga,2023-2024,Matchweek 5,2023-09-17,21:00,Sun,Real Sociedad,Real Madrid,Away,L,1,2,48.0,70092.0,Mikel Oyarzabal,4-3-3,César Soto,0,15,21,6,2
+La Liga,2023-2024,Matchweek 6,2023-09-24,14:00,Sun,Real Sociedad,Getafe,Home,W,4,3,61.0,29568.0,Igor Zubeldia,4-4-2,Juan Pulido,1,8,14,6,1
+La Liga,2023-2024,Matchweek 7,2023-09-27,21:30,Wed,Real Sociedad,Valencia,Away,W,1,0,62.0,44200.0,Mikel Oyarzabal,4-3-3,Alejandro Hernández,0,18,21,2,1
+La Liga,2023-2024,Matchweek 8,2023-09-30,21:00,Sat,Real Sociedad,Athletic Club,Home,W,3,0,51.0,38229.0,Mikel Merino,4-4-2,Jesús Gil,1,2,21,5,1
+La Liga,2023-2024,Matchweek 9,2023-10-08,16:15,Sun,Real Sociedad,Atlético Madrid,Away,L,1,2,62.0,65607.0,Mikel Oyarzabal,4-3-3,José Luis Munuera,0,3,16,6,2
+La Liga,2023-2024,Matchweek 10,2023-10-21,14:00,Sat,Real Sociedad,Mallorca,Home,W,1,0,56.0,31279.0,Mikel Oyarzabal,4-4-2,Jorge Figueroa,1,12,14,5,1
+La Liga,2023-2024,Matchweek 11,2023-10-29,16:15,Sun,Real Sociedad,Rayo Vallecano,Away,D,2,2,45.0,12790.0,Mikel Oyarzabal,4-1-4-1,Mateo Busquets,0,14,16,6,0
+La Liga,2023-2024,Matchweek 12,2023-11-04,21:00,Sat,Real Sociedad,Barcelona,Home,L,0,1,51.0,37555.0,Mikel Oyarzabal,4-3-3,Javier Alberola,1,4,21,5,2
+La Liga,2023-2024,Matchweek 13,2023-11-11,16:15,Sat,Real Sociedad,Almería,Away,W,3,1,53.0,13016.0,Mikel Oyarzabal,4-1-3-2,Isidro Díaz de Mera,0,1,16,5,1
+La Liga,2023-2024,Matchweek 14,2023-11-26,16:15,Sun,Real Sociedad,Sevilla,Home,W,2,1,49.0,33879.0,Mikel Merino,4-4-2,Miguel Ángel Ortiz Arias,1,17,16,6,1
+La Liga,2023-2024,Matchweek 15,2023-12-02,21:00,Sat,Real Sociedad,Osasuna,Away,D,1,1,71.0,20859.0,Mikel Merino,4-3-3,Juan Pulido,0,13,21,5,0
+La Liga,2023-2024,Matchweek 16,2023-12-09,18:30,Sat,Real Sociedad,Villarreal,Away,W,3,0,47.0,19344.0,Aritz Elustondo,4-1-4-1,Mario Melero,0,19,18,5,1
+La Liga,2023-2024,Matchweek 17,2023-12-17,16:15,Sun,Real Sociedad,Betis,Home,D,0,0,57.0,33172.0,Mikel Oyarzabal,4-3-3,Mateo Busquets,1,5,16,6,0
+La Liga,2023-2024,Matchweek 18,2023-12-21,19:00,Thu,Real Sociedad,Cádiz,Away,D,0,0,60.0,17693.0,Mikel Oyarzabal,4-1-4-1,Javier Villanueva,0,7,19,3,0
+La Liga,2023-2024,Matchweek 19,2024-01-02,19:15,Tue,Real Sociedad,Alavés,Home,D,1,1,53.0,34051.0,Mikel Oyarzabal,4-3-3,Víctor García,1,0,19,1,0
+La Liga,2023-2024,Matchweek 20,2024-01-13,18:30,Sat,Real Sociedad,Athletic Club,Away,L,1,2,51.0,51475.0,Mikel Oyarzabal,4-1-4-1,José Luis Munuera,0,2,18,5,2
+La Liga,2023-2024,Matchweek 21,2024-01-20,21:00,Sat,Real Sociedad,Celta Vigo,Away,W,1,0,51.0,20901.0,Igor Zubeldia,5-3-2,Jorge Figueroa,0,6,21,5,1
+La Liga,2023-2024,Matchweek 22,2024-01-27,14:00,Sat,Real Sociedad,Rayo Vallecano,Home,D,0,0,51.0,32528.0,Igor Zubeldia,5-3-2,Alejandro Hernández,1,14,14,5,0
+La Liga,2023-2024,Matchweek 23,2024-02-03,21:00,Sat,Real Sociedad,Girona,Away,D,0,0,51.0,13755.0,Mikel Oyarzabal,4-4-1-1,Jesús Gil,0,9,21,5,0
+La Liga,2023-2024,Matchweek 24,2024-02-10,16:15,Sat,Real Sociedad,Osasuna,Home,L,0,1,68.0,32905.0,Mikel Merino,4-3-3,Isidro Díaz de Mera,1,13,16,5,2
+La Liga,2023-2024,Matchweek 25,2024-02-18,18:30,Sun,Real Sociedad,Mallorca,Away,W,2,1,67.0,18153.0,Mikel Merino,4-3-3,Pablo González,0,12,18,6,1
+La Liga,2023-2024,Matchweek 26,2024-02-23,21:00,Fri,Real Sociedad,Villarreal,Home,L,1,3,70.0,30609.0,Robin Le Normand,4-1-4-1,Javier Villanueva,1,19,21,4,2
+La Liga,2023-2024,Matchweek 27,2024-03-02,14:00,Sat,Real Sociedad,Sevilla,Away,L,2,3,61.0,35884.0,Igor Zubeldia,4-1-3-2,Mateo Busquets,0,17,14,5,2
+La Liga,2023-2024,Matchweek 28,2024-03-09,18:30,Sat,Real Sociedad,Granada,Away,W,3,2,63.0,9214.0,Mikel Oyarzabal,4-1-4-1,Juan Martínez,0,10,18,5,1
+La Liga,2023-2024,Matchweek 29,2024-03-15,21:00,Fri,Real Sociedad,Cádiz,Home,W,2,0,63.0,31000.0,Mikel Oyarzabal,4-3-3,César Soto,1,7,21,4,1
+La Liga,2023-2024,Matchweek 30,2024-03-31,18:30,Sun,Real Sociedad,Alavés,Away,W,1,0,59.0,18575.0,Mikel Oyarzabal,4-3-3,Francisco Hernández,0,0,18,6,1
+La Liga,2023-2024,Matchweek 31,2024-04-14,21:00,Sun,Real Sociedad,Almería,Home,D,2,2,50.0,26520.0,Mikel Oyarzabal,4-4-2,Isidro Díaz de Mera,1,1,21,6,0
+La Liga,2023-2024,Matchweek 32,2024-04-21,14:00,Sun,Real Sociedad,Getafe,Away,D,1,1,59.0,12228.0,Mikel Oyarzabal,4-3-3,Víctor García,0,8,14,6,0
+La Liga,2023-2024,Matchweek 33,2024-04-26,21:00,Fri,Real Sociedad,Real Madrid,Home,L,0,1,56.0,37109.0,Mikel Oyarzabal,4-1-4-1,José Luis Munuera,1,15,21,4,2
+La Liga,2023-2024,Matchweek 34,2024-05-04,14:00,Sat,Real Sociedad,Las Palmas,Home,W,2,0,52.0,29330.0,Mikel Oyarzabal,4-1-4-1,Miguel Ángel Ortiz Arias,1,11,14,5,1
+La Liga,2023-2024,Matchweek 35,2024-05-13,21:00,Mon,Real Sociedad,Barcelona,Away,L,0,2,44.0,35829.0,Mikel Oyarzabal,3-4-3,Guillermo Cuadra,0,4,21,0,2
+La Liga,2023-2024,Matchweek 36,2024-05-16,22:00,Thu,Real Sociedad,Valencia,Home,W,1,0,57.0,25067.0,Mikel Merino,4-3-3,César Soto,1,18,22,3,1
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Real Sociedad,Betis,Away,W,2,0,33.0,58036.0,Mikel Oyarzabal,4-4-2,Juan Martínez,0,5,19,6,1
+La Liga,2023-2024,Matchweek 38,2024-05-25,16:15,Sat,Real Sociedad,Atlético Madrid,Home,L,0,2,59.0,30678.0,Aritz Elustondo,4-3-3,José Sánchez,1,3,16,5,2
+La Liga,2023-2024,Matchweek 1,2023-08-13,19:30,Sun,Real Betis,Villarreal,Away,W,2,1,37.0,17825.0,Germán Pezzella,4-2-3-1,Miguel Ángel Ortiz Arias,0,19,19,6,1
+La Liga,2023-2024,Matchweek 2,2023-08-20,21:30,Sun,Real Betis,Atlético Madrid,Home,D,0,0,53.0,51782.0,Germán Pezzella,4-2-3-1,Ricardo de Burgos,1,3,21,6,0
+La Liga,2023-2024,Matchweek 3,2023-08-27,21:30,Sun,Real Betis,Athletic Club,Away,L,2,4,52.0,44340.0,Germán Pezzella,4-2-3-1,César Soto,0,2,21,6,2
+La Liga,2023-2024,Matchweek 4,2023-09-02,21:00,Sat,Real Betis,Rayo Vallecano,Home,W,1,0,55.0,50619.0,Germán Pezzella,4-2-3-1,Alejandro Muñíz,1,14,21,5,1
+La Liga,2023-2024,Matchweek 5,2023-09-16,21:00,Sat,Real Betis,Barcelona,Away,L,0,5,35.0,45055.0,Marc Bartra,4-2-3-1,José Sánchez,0,4,21,5,2
+La Liga,2023-2024,Matchweek 6,2023-09-24,18:30,Sun,Real Betis,Cádiz,Home,D,1,1,63.0,56087.0,Germán Pezzella,4-2-3-1,Miguel Ángel Ortiz Arias,1,7,18,6,0
+La Liga,2023-2024,Matchweek 7,2023-09-28,19:00,Thu,Real Betis,Granada,Away,D,1,1,61.0,18936.0,Andrés Guardado,4-2-3-1,Víctor García,0,10,19,3,0
+La Liga,2023-2024,Matchweek 8,2023-10-01,21:00,Sun,Real Betis,Valencia,Home,W,3,0,55.0,50163.0,Germán Pezzella,4-2-3-1,Ricardo de Burgos,1,18,21,6,1
+La Liga,2023-2024,Matchweek 9,2023-10-08,18:30,Sun,Real Betis,Alavés,Away,D,1,1,60.0,18288.0,Germán Pezzella,4-2-3-1,Alejandro Hernández,0,0,18,6,0
+La Liga,2023-2024,Matchweek 10,2023-10-21,16:15,Sat,Real Betis,Getafe,Away,D,1,1,55.0,13926.0,Andrés Guardado,4-2-3-1,César Soto,0,8,16,5,0
+La Liga,2023-2024,Matchweek 11,2023-10-29,14:00,Sun,Real Betis,Osasuna,Home,W,2,1,51.0,49123.0,Germán Pezzella,4-2-3-1,José Sánchez,1,13,14,6,1
+La Liga,2023-2024,Matchweek 12,2023-11-04,16:15,Sat,Real Betis,Mallorca,Home,W,2,0,57.0,50909.0,Germán Pezzella,4-2-3-1,Miguel Ángel Ortiz Arias,1,12,16,5,1
+La Liga,2023-2024,Matchweek 13,2023-11-12,18:30,Sun,Real Betis,Sevilla,Away,D,1,1,39.0,42222.0,Germán Pezzella,4-2-3-1,Jesús Gil,0,17,18,6,0
+La Liga,2023-2024,Matchweek 14,2023-11-26,21:00,Sun,Real Betis,Las Palmas,Home,W,1,0,39.0,48132.0,Germán Pezzella,4-2-3-1,Víctor García,1,11,21,6,1
+La Liga,2023-2024,Matchweek 15,2023-12-03,16:15,Sun,Real Betis,Almería,Away,D,0,0,38.0,14253.0,Germán Pezzella,4-4-1-1,Alejandro Muñíz,0,1,16,6,0
+La Liga,2023-2024,Matchweek 16,2023-12-09,16:15,Sat,Real Betis,Real Madrid,Home,D,1,1,37.0,52756.0,Germán Pezzella,4-2-3-1,César Soto,1,15,16,5,0
+La Liga,2023-2024,Matchweek 17,2023-12-17,16:15,Sun,Real Betis,Real Sociedad,Away,D,0,0,43.0,33172.0,Germán Pezzella,4-2-3-1,Mateo Busquets,0,16,16,6,0
+La Liga,2023-2024,Matchweek 18,2023-12-21,19:00,Thu,Real Betis,Girona,Home,D,1,1,47.0,51394.0,Andrés Guardado,4-2-3-1,Ricardo de Burgos,1,9,19,3,0
+La Liga,2023-2024,Matchweek 19,2024-01-03,19:15,Wed,Real Betis,Celta Vigo,Away,L,1,2,60.0,21105.0,Germán Pezzella,4-2-3-1,Miguel Ángel Ortiz Arias,0,6,19,2,2
+La Liga,2023-2024,Matchweek 20,2024-01-13,21:00,Sat,Real Betis,Granada,Home,W,1,0,57.0,50197.0,Andrés Guardado,4-2-3-1,Guillermo Cuadra,1,10,21,5,1
+La Liga,2023-2024,Matchweek 21,2024-01-21,18:30,Sun,Real Betis,Barcelona,Home,L,2,4,37.0,53288.0,Germán Pezzella,4-2-3-1,Jesús Gil,1,4,18,6,2
+La Liga,2023-2024,Matchweek 22,2024-01-27,21:00,Sat,Real Betis,Mallorca,Away,W,1,0,47.0,20051.0,Nabil Fekir,4-2-3-1,Javier Villanueva,0,12,21,5,1
+La Liga,2023-2024,Matchweek 23,2024-02-04,18:30,Sun,Real Betis,Getafe,Home,D,1,1,54.0,53336.0,Nabil Fekir,4-2-3-1,Juan Pulido,1,8,18,6,0
+La Liga,2023-2024,Matchweek 24,2024-02-09,21:00,Fri,Real Betis,Cádiz,Away,W,2,0,47.0,15346.0,Nabil Fekir,4-2-3-1,Ricardo de Burgos,0,7,21,4,1
+La Liga,2023-2024,Matchweek 25,2024-02-18,21:00,Sun,Real Betis,Alavés,Home,D,0,0,62.0,43514.0,Nabil Fekir,4-2-3-1,Mateo Busquets,1,0,21,6,0
+La Liga,2023-2024,Matchweek 26,2024-02-25,16:15,Sun,Real Betis,Athletic Club,Home,W,3,1,57.0,53537.0,Nabil Fekir,4-2-3-1,Guillermo Cuadra,1,2,16,6,1
+La Liga,2023-2024,Matchweek 27,2024-03-03,16:15,Sun,Real Betis,Atlético Madrid,Away,L,1,2,58.0,61901.0,Germán Pezzella,4-2-3-1,César Soto,0,3,16,6,2
+La Liga,2023-2024,Matchweek 28,2024-03-10,21:00,Sun,Real Betis,Villarreal,Home,L,2,3,54.0,47711.0,Nabil Fekir,4-2-3-1,Alejandro Hernández,1,19,21,6,2
+La Liga,2023-2024,Matchweek 29,2024-03-17,18:30,Sun,Real Betis,Rayo Vallecano,Away,L,0,2,61.0,13264.0,Nabil Fekir,4-2-3-1,Juan Pulido,0,14,18,6,2
+La Liga,2023-2024,Matchweek 30,2024-03-31,16:15,Sun,Real Betis,Girona,Away,L,2,3,43.0,12774.0,Nabil Fekir,4-1-4-1,Jesús Gil,0,9,16,6,2
+La Liga,2023-2024,Matchweek 31,2024-04-12,21:00,Fri,Real Betis,Celta Vigo,Home,W,2,1,47.0,48938.0,Germán Pezzella,4-2-3-1,Juan Martínez,1,6,21,4,1
+La Liga,2023-2024,Matchweek 32,2024-04-20,18:30,Sat,Real Betis,Valencia,Away,W,2,1,46.0,46371.0,Germán Pezzella,4-2-3-1,Mateo Busquets,0,18,18,5,1
+La Liga,2023-2024,Matchweek 33,2024-04-28,21:00,Sun,Real Betis,Sevilla,Home,D,1,1,50.0,55770.0,Germán Pezzella,4-2-3-1,José Sánchez,1,17,21,6,0
+La Liga,2023-2024,Matchweek 34,2024-05-05,14:00,Sun,Real Betis,Osasuna,Away,W,2,0,58.0,18300.0,Nabil Fekir,4-2-3-1,Víctor García,0,13,14,6,1
+La Liga,2023-2024,Matchweek 35,2024-05-12,21:00,Sun,Real Betis,Almería,Home,W,3,2,48.0,48622.0,Guido Rodríguez,4-2-3-1,Alejandro Muñíz,1,1,21,6,1
+La Liga,2023-2024,Matchweek 36,2024-05-16,18:30,Thu,Real Betis,Las Palmas,Away,D,2,2,43.0,22606.0,Guido Rodríguez,4-2-3-1,Javier Villanueva,0,11,18,3,0
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Real Betis,Real Sociedad,Home,L,0,2,67.0,58036.0,Nabil Fekir,4-2-3-1,Juan Martínez,1,16,19,6,2
+La Liga,2023-2024,Matchweek 38,2024-05-25,21:00,Sat,Real Betis,Real Madrid,Away,D,0,0,41.0,73614.0,Juan Miranda,4-4-1-1,Isidro Díaz de Mera,0,15,21,5,0
+La Liga,2023-2024,Matchweek 1,2023-08-13,19:30,Sun,Villarreal,Betis,Home,L,1,2,63.0,17825.0,Gerard Moreno,4-3-3,Miguel Ángel Ortiz Arias,1,5,19,6,2
+La Liga,2023-2024,Matchweek 2,2023-08-18,19:30,Fri,Villarreal,Mallorca,Away,W,1,0,60.0,17775.0,Gerard Moreno,4-3-3,Javier Alberola,0,12,19,4,1
+La Liga,2023-2024,Matchweek 3,2023-08-27,17:30,Sun,Villarreal,Barcelona,Home,L,3,4,40.0,21679.0,Gerard Moreno,4-4-2,Alejandro Hernández,1,4,17,6,2
+La Liga,2023-2024,Matchweek 4,2023-09-01,19:30,Fri,Villarreal,Cádiz,Away,L,1,3,57.0,18557.0,Raúl Albiol,4-3-3,Juan Pulido,0,7,19,4,2
+La Liga,2023-2024,Matchweek 5,2023-09-17,16:15,Sun,Villarreal,Almería,Home,W,2,1,62.0,18467.0,Raúl Albiol,4-2-3-1,Francisco Hernández,1,1,16,6,1
+La Liga,2023-2024,Matchweek 6,2023-09-24,16:15,Sun,Villarreal,Rayo Vallecano,Away,D,1,1,58.0,12865.0,Raúl Albiol,4-4-2,Jorge Figueroa,0,14,16,6,0
+La Liga,2023-2024,Matchweek 7,2023-09-27,19:00,Wed,Villarreal,Girona,Home,L,1,2,53.0,17188.0,Raúl Albiol,4-4-2,José Sánchez,1,9,19,2,2
+La Liga,2023-2024,Matchweek 8,2023-09-30,14:00,Sat,Villarreal,Getafe,Away,D,0,0,36.0,11255.0,Raúl Albiol,4-4-2,Mateo Busquets,0,8,14,5,0
+La Liga,2023-2024,Matchweek 9,2023-10-08,14:00,Sun,Villarreal,Las Palmas,Home,L,1,2,49.0,16249.0,Raúl Albiol,4-2-3-1,Alejandro Muñíz,1,11,14,6,2
+La Liga,2023-2024,Matchweek 10,2023-10-22,18:30,Sun,Villarreal,Alavés,Home,D,1,1,68.0,17498.0,Raúl Albiol,3-1-4-2,Jesús Gil,1,0,18,6,0
+La Liga,2023-2024,Matchweek 11,2023-10-30,21:00,Mon,Villarreal,Granada,Away,W,3,2,54.0,16638.0,Raúl Albiol,4-4-2,Javier Villanueva,0,10,21,0,1
+La Liga,2023-2024,Matchweek 12,2023-11-05,18:30,Sun,Villarreal,Athletic Club,Home,L,2,3,58.0,18709.0,Raúl Albiol,4-4-2,Guillermo Cuadra,1,2,18,6,2
+La Liga,2023-2024,Matchweek 13,2023-11-12,21:00,Sun,Villarreal,Atlético Madrid,Away,L,1,3,50.0,56632.0,Raúl Albiol,4-4-2,Francisco Hernández,0,3,21,6,2
+La Liga,2023-2024,Matchweek 14,2023-11-26,14:00,Sun,Villarreal,Osasuna,Home,W,3,1,45.0,16389.0,Raúl Albiol,4-4-2,Ricardo de Burgos,1,13,14,6,1
+La Liga,2023-2024,Matchweek 15,2023-12-03,18:30,Sun,Villarreal,Sevilla,Away,D,1,1,43.0,33898.0,Raúl Albiol,4-4-2,Isidro Díaz de Mera,0,17,18,6,0
+La Liga,2023-2024,Matchweek 16,2023-12-09,18:30,Sat,Villarreal,Real Sociedad,Home,L,0,3,53.0,19344.0,Raúl Albiol,4-4-2,Mario Melero,1,16,18,5,2
+La Liga,2023-2024,Matchweek 17,2023-12-17,21:00,Sun,Villarreal,Real Madrid,Away,L,1,4,40.0,70500.0,Raúl Albiol,4-4-2,Jorge Figueroa,0,15,21,6,2
+La Liga,2023-2024,Matchweek 18,2023-12-20,21:30,Wed,Villarreal,Celta Vigo,Home,W,3,2,49.0,14687.0,Raúl Albiol,4-4-2,César Soto,1,6,21,2,1
+La Liga,2023-2024,Matchweek 19,2024-01-02,21:30,Tue,Villarreal,Valencia,Away,L,1,3,54.0,44973.0,Raúl Albiol,4-3-3,Jesús Gil,0,18,21,1,2
+La Liga,2023-2024,Matchweek 20,2024-01-13,13:00,Sat,Villarreal,Las Palmas,Away,L,0,3,46.0,24485.0,Gerard Moreno,4-4-2,Javier Villanueva,0,11,13,5,2
+La Liga,2023-2024,Matchweek 21,2024-01-20,16:15,Sat,Villarreal,Mallorca,Home,D,1,1,51.0,16479.0,Gerard Moreno,4-4-2,Miguel Ángel Ortiz Arias,1,12,16,5,0
+La Liga,2023-2024,Matchweek 22,2024-01-27,18:30,Sat,Villarreal,Barcelona,Away,W,5,3,30.0,46229.0,Gerard Moreno,4-4-2,José Luis Munuera,0,4,18,5,1
+La Liga,2023-2024,Matchweek 23,2024-02-04,14:00,Sun,Villarreal,Cádiz,Home,D,0,0,59.0,17183.0,Raúl Albiol,4-4-2,Pablo González,1,7,14,6,0
+La Liga,2023-2024,Matchweek 24,2024-02-10,14:00,Sat,Villarreal,Alavés,Away,D,1,1,49.0,14523.0,Raúl Albiol,4-4-2,Mario Melero,0,0,14,5,0
+La Liga,2023-2024,Matchweek 25,2024-02-16,21:00,Fri,Villarreal,Getafe,Home,D,1,1,55.0,16869.0,Raúl Albiol,4-4-2,Javier Alberola,1,8,21,4,0
+La Liga,2023-2024,Matchweek 26,2024-02-23,21:00,Fri,Villarreal,Real Sociedad,Away,W,3,1,30.0,30609.0,Raúl Albiol,4-4-2,Javier Villanueva,0,16,21,4,1
+La Liga,2023-2024,Matchweek 27,2024-03-03,14:00,Sun,Villarreal,Granada,Home,W,5,1,48.0,15896.0,Gerard Moreno,4-4-2,Juan Pulido,1,10,14,6,1
+La Liga,2023-2024,Matchweek 28,2024-03-10,21:00,Sun,Villarreal,Betis,Away,W,3,2,46.0,47711.0,Gerard Moreno,4-4-2,Alejandro Hernández,0,5,21,6,1
+La Liga,2023-2024,Matchweek 29,2024-03-17,16:15,Sun,Villarreal,Valencia,Home,W,1,0,52.0,20647.0,Francis Coquelin,4-4-2,Jorge Figueroa,1,18,16,6,1
+La Liga,2023-2024,Matchweek 30,2024-04-01,21:00,Mon,Villarreal,Atlético Madrid,Home,L,1,2,52.0,19679.0,Raúl Albiol,4-3-3,Mario Melero,1,3,21,0,2
+La Liga,2023-2024,Matchweek 31,2024-04-14,18:30,Sun,Villarreal,Athletic Club,Away,D,1,1,47.0,50061.0,Raúl Albiol,4-4-2,Guillermo Cuadra,0,2,18,6,0
+La Liga,2023-2024,Matchweek 32,2024-04-21,16:15,Sun,Villarreal,Almería,Away,W,2,1,43.0,10601.0,Gerard Moreno,4-4-2,Miguel Ángel Ortiz Arias,0,1,16,6,1
+La Liga,2023-2024,Matchweek 33,2024-04-28,18:30,Sun,Villarreal,Rayo Vallecano,Home,W,3,0,46.0,17869.0,Raúl Albiol,4-4-2,Pablo González,1,14,18,6,1
+La Liga,2023-2024,Matchweek 34,2024-05-05,16:15,Sun,Villarreal,Celta Vigo,Away,L,2,3,47.0,19548.0,Raúl Albiol,4-4-2,César Soto,0,6,16,6,2
+La Liga,2023-2024,Matchweek 35,2024-05-11,16:15,Sat,Villarreal,Sevilla,Home,W,3,2,59.0,16862.0,Daniel Parejo,4-4-2,Isidro Díaz de Mera,1,17,16,5,1
+La Liga,2023-2024,Matchweek 36,2024-05-14,22:00,Tue,Villarreal,Girona,Away,W,1,0,33.0,11440.0,Daniel Parejo,4-4-2,José Sánchez,0,9,22,1,1
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Villarreal,Real Madrid,Home,D,4,4,43.0,21671.0,Gerard Moreno,4-4-2,Alejandro Hernández,1,15,19,6,0
+La Liga,2023-2024,Matchweek 38,2024-05-25,14:00,Sat,Villarreal,Osasuna,Away,D,1,1,57.0,18385.0,Manu Trigueros,4-4-2,Mario Melero,0,13,14,5,0
+La Liga,2023-2024,Matchweek 1,2023-08-11,22:00,Fri,Valencia,Sevilla,Away,W,2,1,45.0,34184.0,José Luis Gayà,4-4-2,José Sánchez,0,17,22,4,1
+La Liga,2023-2024,Matchweek 2,2023-08-18,21:30,Fri,Valencia,Las Palmas,Home,W,1,0,39.0,41053.0,José Luis Gayà,4-4-2,Javier Villanueva,1,11,21,4,1
+La Liga,2023-2024,Matchweek 3,2023-08-27,19:30,Sun,Valencia,Osasuna,Home,L,1,2,64.0,42474.0,José Luis Gayà,4-4-2,Juan Pulido,1,13,19,6,2
+La Liga,2023-2024,Matchweek 4,2023-09-02,18:30,Sat,Valencia,Alavés,Away,L,0,1,60.0,16641.0,José Luis Gayà,4-4-2,Pablo González,0,0,18,5,2
+La Liga,2023-2024,Matchweek 5,2023-09-16,16:15,Sat,Valencia,Atlético Madrid,Home,W,3,0,37.0,45363.0,José Luis Gayà,4-2-3-1,Jesús Gil,1,3,16,5,1
+La Liga,2023-2024,Matchweek 6,2023-09-23,21:00,Sat,Valencia,Almería,Away,D,2,2,39.0,14266.0,José Luis Gayà,4-2-3-1,Mateo Busquets,0,1,21,5,0
+La Liga,2023-2024,Matchweek 7,2023-09-27,21:30,Wed,Valencia,Real Sociedad,Home,L,0,1,38.0,44200.0,José Luis Gayà,4-2-3-1,Alejandro Hernández,1,16,21,2,2
+La Liga,2023-2024,Matchweek 8,2023-10-01,21:00,Sun,Valencia,Betis,Away,L,0,3,45.0,50163.0,Gabriel Paulista,4-2-3-1,Ricardo de Burgos,0,5,21,6,2
+La Liga,2023-2024,Matchweek 9,2023-10-07,18:30,Sat,Valencia,Mallorca,Away,D,1,1,51.0,17659.0,Gabriel Paulista,4-4-2,Francisco Hernández,0,12,18,5,0
+La Liga,2023-2024,Matchweek 10,2023-10-23,21:00,Mon,Valencia,Cádiz,Home,W,2,0,61.0,41647.0,José Luis Gayà,4-2-3-1,Pablo González,1,7,21,0,1
+La Liga,2023-2024,Matchweek 11,2023-10-29,18:30,Sun,Valencia,Athletic Club,Away,D,2,2,43.0,46563.0,José Luis Gayà,4-4-2,Jorge Figueroa,0,2,18,6,0
+La Liga,2023-2024,Matchweek 12,2023-11-05,16:15,Sun,Valencia,Granada,Home,W,1,0,51.0,44922.0,José Luis Gayà,4-4-2,Víctor García,1,10,16,6,1
+La Liga,2023-2024,Matchweek 13,2023-11-11,21:00,Sat,Valencia,Real Madrid,Away,L,1,5,44.0,72475.0,José Luis Gayà,4-2-3-1,José Sánchez,0,15,21,5,2
+La Liga,2023-2024,Matchweek 14,2023-11-25,16:15,Sat,Valencia,Celta Vigo,Home,D,0,0,55.0,43375.0,José Luis Gayà,4-4-2,César Soto,1,6,16,5,0
+La Liga,2023-2024,Matchweek 15,2023-12-02,14:00,Sat,Valencia,Girona,Away,L,1,2,25.0,13343.0,Gabriel Paulista,4-4-2,Javier Villanueva,0,9,14,5,2
+La Liga,2023-2024,Matchweek 16,2023-12-08,21:00,Fri,Valencia,Getafe,Away,L,0,1,33.0,11515.0,Gabriel Paulista,4-4-2,Guillermo Cuadra,0,8,21,4,2
+La Liga,2023-2024,Matchweek 17,2023-12-16,21:00,Sat,Valencia,Barcelona,Home,D,1,1,37.0,46492.0,Mouctar Diakhaby,4-4-2,Miguel Ángel Ortiz Arias,1,4,21,5,0
+La Liga,2023-2024,Matchweek 18,2023-12-19,19:00,Tue,Valencia,Rayo Vallecano,Away,W,1,0,41.0,12290.0,Mouctar Diakhaby,4-4-2,Javier Alberola,0,14,19,1,1
+La Liga,2023-2024,Matchweek 19,2024-01-02,21:30,Tue,Valencia,Villarreal,Home,W,3,1,46.0,44973.0,José Luis Gayà,4-4-2,Jesús Gil,1,19,21,1,1
+La Liga,2023-2024,Matchweek 20,2024-01-14,16:15,Sun,Valencia,Cádiz,Away,W,4,1,43.0,18622.0,José Luis Gayà,4-4-2,Isidro Díaz de Mera,0,7,16,6,1
+La Liga,2023-2024,Matchweek 21,2024-01-20,18:30,Sat,Valencia,Athletic Club,Home,W,1,0,40.0,45344.0,José Luis Gayà,4-4-2,Juan Pulido,1,2,18,5,1
+La Liga,2023-2024,Matchweek 22,2024-01-28,21:00,Sun,Valencia,Atlético Madrid,Away,L,0,2,46.0,59493.0,José Luis Gayà,4-2-3-1,Ricardo de Burgos,0,3,21,6,2
+La Liga,2023-2024,Matchweek 23,2024-02-03,14:00,Sat,Valencia,Almería,Home,W,2,1,48.0,42877.0,José Luis Gayà,4-4-2,Alejandro Muñíz,1,1,14,5,1
+La Liga,2023-2024,Matchweek 24,2024-02-10,20:00,Sat,Valencia,Las Palmas,Away,L,0,2,28.0,25633.0,José Luis Gayà,4-4-2,Guillermo Cuadra,0,11,20,5,2
+La Liga,2023-2024,Matchweek 25,2024-02-17,21:00,Sat,Valencia,Sevilla,Home,D,0,0,54.0,44506.0,José Luis Gayà,4-4-2,César Soto,1,17,21,5,0
+La Liga,2023-2024,Matchweek 27,2024-03-02,21:00,Sat,Valencia,Real Madrid,Home,D,2,2,30.0,47427.0,José Luis Gayà,4-4-2,Jesús Gil,1,15,21,5,0
+La Liga,2023-2024,Matchweek 28,2024-03-09,14:00,Sat,Valencia,Getafe,Home,W,1,0,51.0,37961.0,José Luis Gayà,4-4-2,Juan Pulido,1,8,14,5,1
+La Liga,2023-2024,Matchweek 29,2024-03-17,16:15,Sun,Valencia,Villarreal,Away,L,0,1,48.0,20647.0,José Luis Gayà,4-4-2,Jorge Figueroa,0,19,16,6,2
+La Liga,2023-2024,Matchweek 30,2024-03-30,18:30,Sat,Valencia,Mallorca,Home,D,0,0,53.0,42567.0,Thierry Correia,4-4-2,Miguel Ángel Ortiz Arias,1,12,18,5,0
+La Liga,2023-2024,Matchweek 26,2024-04-04,20:00,Thu,Valencia,Granada,Away,W,1,0,43.0,15107.0,Thierry Correia,4-4-2,Alejandro Hernández,0,10,20,3,1
+La Liga,2023-2024,Matchweek 31,2024-04-15,21:00,Mon,Valencia,Osasuna,Away,W,1,0,35.0,19480.0,Giorgi Mamardashvili,4-4-2,José Luis Munuera,0,13,21,0,1
+La Liga,2023-2024,Matchweek 32,2024-04-20,18:30,Sat,Valencia,Betis,Home,L,1,2,54.0,46371.0,Thierry Correia,4-4-2,Mateo Busquets,1,5,18,5,2
+La Liga,2023-2024,Matchweek 33,2024-04-29,21:00,Mon,Valencia,Barcelona,Away,L,2,4,20.0,30167.0,Thierry Correia,4-4-2,Ricardo de Burgos,0,4,21,0,2
+La Liga,2023-2024,Matchweek 34,2024-05-05,18:30,Sun,Valencia,Alavés,Home,L,0,1,58.0,44643.0,Jaume Doménech,4-4-2,Mario Melero,1,0,18,6,2
+La Liga,2023-2024,Matchweek 35,2024-05-12,18:30,Sun,Valencia,Rayo Vallecano,Home,D,0,0,51.0,42642.0,Thierry Correia,4-2-3-1,Juan Pulido,1,14,18,6,0
+La Liga,2023-2024,Matchweek 36,2024-05-16,22:00,Thu,Valencia,Real Sociedad,Away,L,0,1,43.0,25067.0,Thierry Correia,4-4-2,César Soto,0,16,22,3,2
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Valencia,Girona,Home,L,1,3,37.0,36138.0,Giorgi Mamardashvili,4-4-2,Guillermo Cuadra,1,9,19,6,2
+La Liga,2023-2024,Matchweek 38,2024-05-26,16:15,Sun,Valencia,Celta Vigo,Away,D,2,2,46.0,21878.0,Thierry Correia,4-4-2,Miguel Ángel Ortiz Arias,0,6,16,6,0
+La Liga,2023-2024,Matchweek 1,2023-08-14,19:30,Mon,Alaves,Cádiz,Away,L,0,1,55.0,19306.0,Rubén Duarte,5-4-1,Isidro Díaz de Mera,0,7,19,0,2
+La Liga,2023-2024,Matchweek 2,2023-08-21,19:00,Mon,Alaves,Sevilla,Home,W,4,3,34.0,15308.0,Rubén Duarte,4-4-2,Guillermo Cuadra,1,17,19,0,1
+La Liga,2023-2024,Matchweek 3,2023-08-28,19:30,Mon,Alaves,Getafe,Away,L,0,1,53.0,11023.0,Rubén Duarte,4-3-3,Juan Martínez,0,8,19,0,2
+La Liga,2023-2024,Matchweek 4,2023-09-02,18:30,Sat,Alaves,Valencia,Home,W,1,0,40.0,16641.0,Rubén Duarte,4-2-3-1,Pablo González,1,18,18,5,1
+La Liga,2023-2024,Matchweek 5,2023-09-15,21:00,Fri,Alaves,Rayo Vallecano,Away,L,0,2,49.0,12116.0,Rubén Duarte,4-2-3-1,Víctor García,0,14,21,4,2
+La Liga,2023-2024,Matchweek 6,2023-09-22,21:00,Fri,Alaves,Athletic Club,Home,L,0,2,44.0,19421.0,Rubén Duarte,4-2-3-1,Alejandro Muñíz,1,2,21,4,2
+La Liga,2023-2024,Matchweek 7,2023-09-28,19:00,Thu,Alaves,Celta Vigo,Away,D,1,1,54.0,16852.0,Ander Guevara,4-2-3-1,César Soto,0,6,19,3,0
+La Liga,2023-2024,Matchweek 8,2023-10-01,16:15,Sun,Alaves,Osasuna,Home,L,0,2,46.0,19035.0,Rubén Duarte,4-2-3-1,Jorge Figueroa,1,13,16,6,2
+La Liga,2023-2024,Matchweek 9,2023-10-08,18:30,Sun,Alaves,Betis,Home,D,1,1,40.0,18288.0,Luis Rioja,4-2-3-1,Alejandro Hernández,1,5,18,6,0
+La Liga,2023-2024,Matchweek 10,2023-10-22,18:30,Sun,Alaves,Villarreal,Away,D,1,1,32.0,17498.0,Rubén Duarte,4-2-3-1,Jesús Gil,0,19,18,6,0
+La Liga,2023-2024,Matchweek 11,2023-10-29,21:00,Sun,Alaves,Atlético Madrid,Away,L,1,2,37.0,50009.0,Rubén Duarte,4-2-3-1,Alejandro Muñíz,0,3,21,6,2
+La Liga,2023-2024,Matchweek 12,2023-11-05,14:00,Sun,Alaves,Almería,Home,W,1,0,56.0,16380.0,Luis Rioja,4-2-3-1,Juan Pulido,1,1,14,6,1
+La Liga,2023-2024,Matchweek 13,2023-11-12,16:15,Sun,Alaves,Barcelona,Away,L,1,2,29.0,38183.0,Rubén Duarte,5-4-1,Mateo Busquets,0,4,16,6,2
+La Liga,2023-2024,Matchweek 14,2023-11-24,21:00,Fri,Alaves,Granada,Home,W,3,1,43.0,15705.0,Luis Rioja,4-2-3-1,Javier Alberola,1,10,21,4,1
+La Liga,2023-2024,Matchweek 15,2023-12-03,14:00,Sun,Alaves,Mallorca,Away,D,0,0,37.0,15090.0,Luis Rioja,4-2-3-1,Jorge Figueroa,0,12,14,6,0
+La Liga,2023-2024,Matchweek 16,2023-12-09,14:00,Sat,Alaves,Las Palmas,Home,L,0,1,41.0,15971.0,Luis Rioja,4-4-1-1,José Luis Munuera,1,11,14,5,2
+La Liga,2023-2024,Matchweek 17,2023-12-18,21:00,Mon,Alaves,Girona,Away,L,0,3,34.0,11812.0,Rubén Duarte,3-4-3,Francisco Hernández,0,9,21,0,2
+La Liga,2023-2024,Matchweek 18,2023-12-21,21:30,Thu,Alaves,Real Madrid,Home,L,0,1,40.0,19275.0,Rubén Duarte,4-2-3-1,Isidro Díaz de Mera,1,15,21,3,2
+La Liga,2023-2024,Matchweek 19,2024-01-02,19:15,Tue,Alaves,Real Sociedad,Away,D,1,1,47.0,34051.0,Luis Rioja,4-2-3-1,Víctor García,0,16,19,1,0
+La Liga,2023-2024,Matchweek 20,2024-01-12,21:00,Fri,Alaves,Sevilla,Away,W,3,2,32.0,34225.0,Luis Rioja,4-2-3-1,Alejandro Hernández,0,17,21,4,1
+La Liga,2023-2024,Matchweek 21,2024-01-19,21:00,Fri,Alaves,Cádiz,Home,W,1,0,49.0,15838.0,Rubén Duarte,4-2-3-1,Alejandro Muñíz,1,7,21,4,1
+La Liga,2023-2024,Matchweek 22,2024-01-26,21:00,Fri,Alaves,Almería,Away,W,3,0,36.0,13817.0,Rubén Duarte,4-2-3-1,Miguel Ángel Ortiz Arias,0,1,21,4,1
+La Liga,2023-2024,Matchweek 23,2024-02-03,18:30,Sat,Alaves,Barcelona,Home,L,1,3,36.0,19480.0,Rubén Duarte,4-2-3-1,Juan Martínez,1,4,18,5,2
+La Liga,2023-2024,Matchweek 24,2024-02-10,14:00,Sat,Alaves,Villarreal,Home,D,1,1,51.0,14523.0,Luis Rioja,4-2-3-1,Mario Melero,1,19,14,5,0
+La Liga,2023-2024,Matchweek 25,2024-02-18,21:00,Sun,Alaves,Betis,Away,D,0,0,38.0,43514.0,Rubén Duarte,4-2-3-1,Mateo Busquets,0,5,21,6,0
+La Liga,2023-2024,Matchweek 26,2024-02-24,18:30,Sat,Alaves,Mallorca,Home,D,1,1,52.0,16102.0,Luis Rioja,4-2-3-1,Víctor García,1,12,18,5,0
+La Liga,2023-2024,Matchweek 27,2024-03-04,21:00,Mon,Alaves,Osasuna,Away,L,0,1,45.0,17215.0,Luis Rioja,4-3-3,Jorge Figueroa,0,13,21,0,2
+La Liga,2023-2024,Matchweek 28,2024-03-10,14:00,Sun,Alaves,Rayo Vallecano,Home,W,1,0,34.0,16519.0,Luis Rioja,4-2-3-1,José Luis Munuera,1,14,14,6,1
+La Liga,2023-2024,Matchweek 29,2024-03-16,21:00,Sat,Alaves,Athletic Club,Away,L,0,2,41.0,48257.0,Luis Rioja,4-2-3-1,Alejandro Muñíz,0,2,21,5,2
+La Liga,2023-2024,Matchweek 30,2024-03-31,18:30,Sun,Alaves,Real Sociedad,Home,L,0,1,41.0,18575.0,Luis Rioja,4-2-3-1,Francisco Hernández,1,16,18,6,2
+La Liga,2023-2024,Matchweek 31,2024-04-14,16:15,Sun,Alaves,Granada,Away,L,0,2,62.0,13398.0,Rubén Duarte,4-2-3-1,Víctor García,0,10,16,6,2
+La Liga,2023-2024,Matchweek 32,2024-04-21,18:30,Sun,Alaves,Atlético Madrid,Home,W,2,0,32.0,18719.0,Carlos Benavídez,4-2-3-1,Jesús Gil,1,3,18,6,1
+La Liga,2023-2024,Matchweek 33,2024-04-27,18:30,Sat,Alaves,Celta Vigo,Home,W,3,0,38.0,18039.0,Rubén Duarte,4-2-3-1,Juan Pulido,1,6,18,5,1
+La Liga,2023-2024,Matchweek 34,2024-05-05,18:30,Sun,Alaves,Valencia,Away,W,1,0,42.0,44643.0,Carlos Benavídez,4-2-3-1,Mario Melero,0,18,18,6,1
+La Liga,2023-2024,Matchweek 35,2024-05-10,21:00,Fri,Alaves,Girona,Home,D,2,2,36.0,17906.0,Carlos Benavídez,4-2-3-1,José Luis Munuera,1,9,21,4,0
+La Liga,2023-2024,Matchweek 36,2024-05-14,21:30,Tue,Alaves,Real Madrid,Away,L,0,5,29.0,68954.0,Rubén Duarte,4-2-3-1,Mateo Busquets,0,15,21,1,2
+La Liga,2023-2024,Matchweek 37,2024-05-18,21:00,Sat,Alaves,Getafe,Home,W,1,0,48.0,18709.0,Rubén Duarte,4-2-3-1,Jorge Figueroa,1,8,21,5,1
+La Liga,2023-2024,Matchweek 38,2024-05-26,15:15,Sun,Alaves,Las Palmas,Away,D,1,1,35.0,23043.0,Rubén Duarte,4-2-3-1,Francisco Hernández,0,11,15,6,0
+La Liga,2023-2024,Matchweek 1,2023-08-13,17:00,Sun,Osasuna,Celta Vigo,Away,W,2,0,47.0,20269.0,David García,4-3-3,Pablo González,0,6,17,6,1
+La Liga,2023-2024,Matchweek 2,2023-08-19,21:30,Sat,Osasuna,Athletic Club,Home,L,0,2,63.0,20704.0,David García,4-3-3,José Luis Munuera,1,2,21,5,2
+La Liga,2023-2024,Matchweek 3,2023-08-27,19:30,Sun,Osasuna,Valencia,Away,W,2,1,36.0,42474.0,David García,4-3-3,Juan Pulido,0,18,19,6,1
+La Liga,2023-2024,Matchweek 4,2023-09-03,21:00,Sun,Osasuna,Barcelona,Home,L,1,2,31.0,21966.0,Rubén García,4-1-4-1,Miguel Ángel Ortiz Arias,1,4,21,6,2
+La Liga,2023-2024,Matchweek 5,2023-09-17,14:00,Sun,Osasuna,Getafe,Away,L,2,3,56.0,9808.0,David García,4-3-3,Alejandro Hernández,0,8,14,6,2
+La Liga,2023-2024,Matchweek 6,2023-09-23,16:15,Sat,Osasuna,Sevilla,Home,D,0,0,44.0,19670.0,David García,4-3-3,Javier Villanueva,1,17,16,5,0
+La Liga,2023-2024,Matchweek 7,2023-09-28,21:30,Thu,Osasuna,Atlético Madrid,Home,L,0,2,55.0,20192.0,David García,4-3-3,Juan Martínez,1,3,21,3,2
+La Liga,2023-2024,Matchweek 8,2023-10-01,16:15,Sun,Osasuna,Alavés,Away,W,2,0,54.0,19035.0,David García,4-3-3,Jorge Figueroa,0,0,16,6,1
+La Liga,2023-2024,Matchweek 9,2023-10-07,16:15,Sat,Osasuna,Real Madrid,Away,L,0,4,33.0,70864.0,David García,4-3-3,Guillermo Cuadra,0,15,16,5,2
+La Liga,2023-2024,Matchweek 10,2023-10-20,21:00,Fri,Osasuna,Granada,Home,W,2,0,58.0,19739.0,David García,4-3-3,Mateo Busquets,1,10,21,4,1
+La Liga,2023-2024,Matchweek 11,2023-10-29,14:00,Sun,Osasuna,Betis,Away,L,1,2,49.0,49123.0,David García,4-2-3-1,José Sánchez,0,5,14,6,2
+La Liga,2023-2024,Matchweek 12,2023-11-04,14:00,Sat,Osasuna,Girona,Home,L,2,4,50.0,20100.0,David García,4-2-3-1,José Luis Munuera,1,9,14,5,2
+La Liga,2023-2024,Matchweek 13,2023-11-11,18:30,Sat,Osasuna,Las Palmas,Home,D,1,1,46.0,20125.0,David García,4-2-3-1,Jorge Figueroa,1,11,18,5,0
+La Liga,2023-2024,Matchweek 14,2023-11-26,14:00,Sun,Osasuna,Villarreal,Away,L,1,3,55.0,16389.0,David García,4-2-3-1,Ricardo de Burgos,0,19,14,6,2
+La Liga,2023-2024,Matchweek 15,2023-12-02,21:00,Sat,Osasuna,Real Sociedad,Home,D,1,1,29.0,20859.0,David García,5-3-2,Juan Pulido,1,16,21,5,0
+La Liga,2023-2024,Matchweek 16,2023-12-10,18:30,Sun,Osasuna,Cádiz,Away,D,1,1,55.0,18356.0,Unai García,4-3-3,Juan Martínez,0,7,18,6,0
+La Liga,2023-2024,Matchweek 17,2023-12-15,21:00,Fri,Osasuna,Rayo Vallecano,Home,W,1,0,60.0,18586.0,David García,4-3-3,Javier Villanueva,1,14,21,4,1
+La Liga,2023-2024,Matchweek 18,2023-12-21,21:30,Thu,Osasuna,Mallorca,Away,L,2,3,58.0,14192.0,David García,4-3-3,Mario Melero,0,12,21,3,2
+La Liga,2023-2024,Matchweek 19,2024-01-04,17:00,Thu,Osasuna,Almería,Home,W,1,0,52.0,20391.0,David García,4-3-3,César Soto,1,1,17,3,1
+La Liga,2023-2024,Matchweek 21,2024-01-21,14:00,Sun,Osasuna,Getafe,Home,W,3,2,43.0,18811.0,David García,3-5-2,José Sánchez,1,8,14,6,1
+La Liga,2023-2024,Matchweek 22,2024-01-28,18:30,Sun,Osasuna,Sevilla,Away,D,1,1,56.0,36640.0,David García,3-5-2,Guillermo Cuadra,0,17,18,6,0
+La Liga,2023-2024,Matchweek 20,2024-01-31,19:00,Wed,Osasuna,Barcelona,Away,L,0,1,32.0,37888.0,Unai García,5-3-2,Jorge Figueroa,0,4,19,2,2
+La Liga,2023-2024,Matchweek 23,2024-02-04,16:15,Sun,Osasuna,Celta Vigo,Home,L,0,3,70.0,20030.0,David García,5-3-2,Javier Alberola,1,6,16,6,2
+La Liga,2023-2024,Matchweek 24,2024-02-10,16:15,Sat,Osasuna,Real Sociedad,Away,W,1,0,32.0,32905.0,David García,5-3-2,Isidro Díaz de Mera,0,16,16,5,1
+La Liga,2023-2024,Matchweek 25,2024-02-17,16:15,Sat,Osasuna,Cádiz,Home,W,2,0,56.0,19525.0,David García,4-3-3,Francisco Hernández,1,7,16,5,1
+La Liga,2023-2024,Matchweek 26,2024-02-25,17:30,Sun,Osasuna,Las Palmas,Away,D,1,1,29.0,25075.0,Unai García,3-5-2,José Luis Munuera,0,11,17,6,0
+La Liga,2023-2024,Matchweek 27,2024-03-04,21:00,Mon,Osasuna,Alavés,Home,W,1,0,55.0,17215.0,David García,4-2-3-1,Jorge Figueroa,1,0,21,0,1
+La Liga,2023-2024,Matchweek 28,2024-03-09,21:00,Sat,Osasuna,Girona,Away,L,0,2,40.0,11598.0,Unai García,3-5-1-1,Mateo Busquets,0,9,21,5,2
+La Liga,2023-2024,Matchweek 29,2024-03-16,16:15,Sat,Osasuna,Real Madrid,Home,L,2,4,36.0,22430.0,Unai García,3-5-2,Juan Martínez,1,15,16,5,2
+La Liga,2023-2024,Matchweek 30,2024-03-30,16:15,Sat,Osasuna,Almería,Away,W,3,0,49.0,10565.0,Sergio Herrera,4-4-2,Pablo González,0,1,16,5,1
+La Liga,2023-2024,Matchweek 31,2024-04-15,21:00,Mon,Osasuna,Valencia,Home,L,0,1,65.0,19480.0,David García,4-4-2,José Luis Munuera,1,18,21,0,2
+La Liga,2023-2024,Matchweek 32,2024-04-20,16:15,Sat,Osasuna,Rayo Vallecano,Away,L,1,2,36.0,12617.0,David García,4-3-3,Mario Melero,0,14,16,5,2
+La Liga,2023-2024,Matchweek 33,2024-04-28,16:15,Sun,Osasuna,Granada,Away,L,0,3,62.0,13825.0,Sergio Herrera,4-3-3,Alejandro Muñíz,0,10,16,6,2
+La Liga,2023-2024,Matchweek 34,2024-05-05,14:00,Sun,Osasuna,Betis,Home,L,0,2,42.0,18300.0,Sergio Herrera,4-5-1,Víctor García,1,5,14,6,2
+La Liga,2023-2024,Matchweek 35,2024-05-11,21:00,Sat,Osasuna,Athletic Club,Away,D,2,2,33.0,45273.0,Sergio Herrera,4-1-4-1,José Sánchez,0,2,21,5,0
+La Liga,2023-2024,Matchweek 36,2024-05-14,19:30,Tue,Osasuna,Mallorca,Home,D,1,1,52.0,17852.0,Rubén García,4-3-3,Francisco Hernández,1,12,19,1,0
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Osasuna,Atlético Madrid,Away,W,4,1,44.0,58401.0,Sergio Herrera,4-1-4-1,Pablo González,0,3,19,6,1
+La Liga,2023-2024,Matchweek 38,2024-05-25,14:00,Sat,Osasuna,Villarreal,Home,D,1,1,43.0,18385.0,Lucas Torró,4-1-4-1,Mario Melero,1,19,14,5,0
+La Liga,2023-2024,Matchweek 1,2023-08-13,21:30,Sun,Getafe,Barcelona,Home,D,0,0,26.0,13410.0,Djené,4-5-1,César Soto,1,4,21,6,0
+La Liga,2023-2024,Matchweek 2,2023-08-20,19:00,Sun,Getafe,Girona,Away,L,0,3,37.0,11784.0,Djené,4-2-3-1,Jorge Figueroa,0,9,19,6,2
+La Liga,2023-2024,Matchweek 3,2023-08-28,19:30,Mon,Getafe,Alavés,Home,W,1,0,47.0,11023.0,Djené,4-4-2,Juan Martínez,1,0,19,0,1
+La Liga,2023-2024,Matchweek 4,2023-09-02,16:15,Sat,Getafe,Real Madrid,Away,L,1,2,24.0,66747.0,Djené,4-1-3-2,Mario Melero,0,15,16,5,2
+La Liga,2023-2024,Matchweek 5,2023-09-17,14:00,Sun,Getafe,Osasuna,Home,W,3,2,44.0,9808.0,Djené,4-4-2,Alejandro Hernández,1,13,14,6,1
+La Liga,2023-2024,Matchweek 6,2023-09-24,14:00,Sun,Getafe,Real Sociedad,Away,L,3,4,39.0,29568.0,Djené,4-2-3-1,Juan Pulido,0,16,14,6,2
+La Liga,2023-2024,Matchweek 7,2023-09-27,19:00,Wed,Getafe,Athletic Club,Away,D,2,2,51.0,43091.0,David Soria,5-4-1,Isidro Díaz de Mera,0,2,19,2,0
+La Liga,2023-2024,Matchweek 8,2023-09-30,14:00,Sat,Getafe,Villarreal,Home,D,0,0,64.0,11255.0,Djené,4-4-2,Mateo Busquets,1,19,14,5,0
+La Liga,2023-2024,Matchweek 9,2023-10-08,18:30,Sun,Getafe,Celta Vigo,Away,D,2,2,26.0,17953.0,Djené,4-4-2,José Sánchez,0,6,18,6,0
+La Liga,2023-2024,Matchweek 10,2023-10-21,16:15,Sat,Getafe,Betis,Home,D,1,1,45.0,13926.0,Damián Suárez,4-4-2,César Soto,1,5,16,5,0
+La Liga,2023-2024,Matchweek 11,2023-10-28,18:30,Sat,Getafe,Mallorca,Away,D,0,0,41.0,15310.0,Djené,4-4-2,Pablo González,0,12,18,5,0
+La Liga,2023-2024,Matchweek 12,2023-11-06,21:00,Mon,Getafe,Cádiz,Home,W,1,0,45.0,9853.0,Djené,4-4-2,Ricardo de Burgos,1,7,21,0,1
+La Liga,2023-2024,Matchweek 13,2023-11-11,18:30,Sat,Getafe,Granada,Away,D,1,1,42.0,18103.0,David Soria,4-2-3-1,Alejandro Muñíz,0,10,18,5,0
+La Liga,2023-2024,Matchweek 14,2023-11-25,18:30,Sat,Getafe,Almería,Home,W,2,1,53.0,10906.0,Damián Suárez,4-4-2,Alejandro Hernández,1,1,18,5,1
+La Liga,2023-2024,Matchweek 15,2023-12-01,20:00,Fri,Getafe,Las Palmas,Away,L,0,2,30.0,21912.0,Djené,4-4-1-1,Mateo Busquets,0,11,20,4,2
+La Liga,2023-2024,Matchweek 16,2023-12-08,21:00,Fri,Getafe,Valencia,Home,W,1,0,67.0,11515.0,Djené,4-4-2,Guillermo Cuadra,1,18,21,4,1
+La Liga,2023-2024,Matchweek 17,2023-12-16,18:30,Sat,Getafe,Sevilla,Away,W,3,0,43.0,30005.0,Djené,4-4-2,Juan Pulido,0,17,18,5,1
+La Liga,2023-2024,Matchweek 18,2023-12-19,21:30,Tue,Getafe,Atlético Madrid,Away,D,3,3,58.0,46401.0,Jaime Mata,4-4-2,José Luis Munuera,0,3,21,1,0
+La Liga,2023-2024,Matchweek 19,2024-01-02,17:00,Tue,Getafe,Rayo Vallecano,Home,L,0,2,38.0,11204.0,Djené,4-4-2,Jorge Figueroa,1,14,17,1,2
+La Liga,2023-2024,Matchweek 21,2024-01-21,14:00,Sun,Getafe,Osasuna,Away,L,2,3,57.0,18811.0,Djené,4-4-2,José Sánchez,0,13,14,6,2
+La Liga,2023-2024,Matchweek 22,2024-01-29,21:00,Mon,Getafe,Granada,Home,W,2,0,40.0,10382.0,Djené,4-4-2,Víctor García,1,10,21,0,1
+La Liga,2023-2024,Matchweek 20,2024-02-01,21:00,Thu,Getafe,Real Madrid,Home,L,0,2,42.0,15264.0,Djené,4-4-2,Ricardo de Burgos,1,15,21,3,2
+La Liga,2023-2024,Matchweek 23,2024-02-04,18:30,Sun,Getafe,Betis,Away,D,1,1,46.0,53336.0,Djené,4-4-2,Juan Pulido,0,5,18,6,0
+La Liga,2023-2024,Matchweek 24,2024-02-11,14:00,Sun,Getafe,Celta Vigo,Home,W,3,2,48.0,11502.0,Djené,4-4-2,Alejandro Hernández,1,6,14,6,1
+La Liga,2023-2024,Matchweek 25,2024-02-16,21:00,Fri,Getafe,Villarreal,Away,D,1,1,45.0,16869.0,Djené,4-4-2,Javier Alberola,0,19,21,4,0
+La Liga,2023-2024,Matchweek 26,2024-02-24,16:15,Sat,Getafe,Barcelona,Away,L,0,4,33.0,36803.0,Djené,4-5-1,Alejandro Muñíz,0,4,16,5,2
+La Liga,2023-2024,Matchweek 27,2024-03-02,18:30,Sat,Getafe,Las Palmas,Home,D,3,3,28.0,7623.0,Jaime Mata,4-3-3,Pablo González,1,11,18,5,0
+La Liga,2023-2024,Matchweek 28,2024-03-09,14:00,Sat,Getafe,Valencia,Away,L,0,1,49.0,37961.0,Djené,4-4-2,Juan Pulido,0,18,14,5,2
+La Liga,2023-2024,Matchweek 29,2024-03-16,18:30,Sat,Getafe,Girona,Home,W,1,0,41.0,12912.0,Djené,4-1-4-1,José Luis Munuera,1,9,18,5,1
+La Liga,2023-2024,Matchweek 30,2024-03-30,14:00,Sat,Getafe,Sevilla,Home,L,0,1,66.0,10139.0,Djené,4-1-4-1,Javier Villanueva,1,17,14,5,2
+La Liga,2023-2024,Matchweek 31,2024-04-13,16:15,Sat,Getafe,Rayo Vallecano,Away,D,0,0,37.0,12868.0,Djené,4-4-1-1,Jorge Figueroa,0,14,16,5,0
+La Liga,2023-2024,Matchweek 32,2024-04-21,14:00,Sun,Getafe,Real Sociedad,Home,D,1,1,41.0,12228.0,Djené,4-2-3-1,Víctor García,1,16,14,6,0
+La Liga,2023-2024,Matchweek 33,2024-04-27,16:15,Sat,Getafe,Almería,Away,W,3,1,44.0,7874.0,Djené,4-2-3-1,Guillermo Cuadra,0,1,16,5,1
+La Liga,2023-2024,Matchweek 34,2024-05-03,21:00,Fri,Getafe,Athletic Club,Home,L,0,2,64.0,12149.0,Djené,4-2-3-1,Jesús Gil,1,2,21,4,2
+La Liga,2023-2024,Matchweek 35,2024-05-12,14:00,Sun,Getafe,Cádiz,Away,L,0,1,55.0,16592.0,Djené,5-3-2,Ricardo de Burgos,0,7,14,6,2
+La Liga,2023-2024,Matchweek 36,2024-05-15,22:00,Wed,Getafe,Atlético Madrid,Home,L,0,3,45.0,13027.0,David Soria,4-4-1-1,Mario Melero,1,3,22,2,2
+La Liga,2023-2024,Matchweek 37,2024-05-18,21:00,Sat,Getafe,Alavés,Away,L,0,1,52.0,18709.0,David Soria,5-3-2,Jorge Figueroa,0,0,21,5,2
+La Liga,2023-2024,Matchweek 38,2024-05-26,14:00,Sun,Getafe,Mallorca,Home,L,1,2,50.0,9545.0,Djené,4-1-4-1,Víctor García,1,12,14,6,2
+La Liga,2023-2024,Matchweek 1,2023-08-13,17:00,Sun,Celta Vigo,Osasuna,Home,L,0,2,53.0,20269.0,Iago Aspas,4-4-2,Pablo González,1,13,17,6,2
+La Liga,2023-2024,Matchweek 2,2023-08-19,17:00,Sat,Celta Vigo,Real Sociedad,Away,D,1,1,47.0,30354.0,Iago Aspas,4-4-2,Miguel Ángel Ortiz Arias,0,16,17,5,0
+La Liga,2023-2024,Matchweek 3,2023-08-25,21:30,Fri,Celta Vigo,Real Madrid,Home,L,0,1,37.0,23057.0,Iago Aspas,5-3-2,Isidro Díaz de Mera,1,15,21,4,2
+La Liga,2023-2024,Matchweek 4,2023-09-01,22:00,Fri,Celta Vigo,Almería,Away,W,3,2,37.0,14196.0,Iago Aspas,5-4-1,Ricardo de Burgos,0,1,22,4,1
+La Liga,2023-2024,Matchweek 5,2023-09-16,18:30,Sat,Celta Vigo,Mallorca,Home,L,0,1,60.0,18693.0,Iago Aspas,3-4-3,José Luis Munuera,1,12,18,5,2
+La Liga,2023-2024,Matchweek 6,2023-09-23,18:30,Sat,Celta Vigo,Barcelona,Away,L,2,3,26.0,43272.0,Iago Aspas,5-3-2,Mario Melero,0,4,18,5,2
+La Liga,2023-2024,Matchweek 7,2023-09-28,19:00,Thu,Celta Vigo,Alavés,Home,D,1,1,46.0,16852.0,Iago Aspas,5-3-2,César Soto,1,0,19,3,0
+La Liga,2023-2024,Matchweek 8,2023-10-02,20:00,Mon,Celta Vigo,Las Palmas,Away,L,1,2,27.0,22472.0,Carl Starfelt,5-3-2,Javier Alberola,0,11,20,0,2
+La Liga,2023-2024,Matchweek 9,2023-10-08,18:30,Sun,Celta Vigo,Getafe,Home,D,2,2,74.0,17953.0,Iago Aspas,4-4-2,José Sánchez,1,8,18,6,0
+La Liga,2023-2024,Matchweek 10,2023-10-21,21:00,Sat,Celta Vigo,Atlético Madrid,Home,L,0,3,36.0,20282.0,Iago Aspas,4-3-3,Guillermo Cuadra,1,3,21,5,2
+La Liga,2023-2024,Matchweek 11,2023-10-27,21:00,Fri,Celta Vigo,Girona,Away,L,0,1,35.0,12671.0,Iago Aspas,4-4-2,Isidro Díaz de Mera,0,9,21,4,2
+La Liga,2023-2024,Matchweek 12,2023-11-04,18:30,Sat,Celta Vigo,Sevilla,Home,D,1,1,39.0,19023.0,Iago Aspas,4-4-2,Alejandro Hernández,1,17,18,5,0
+La Liga,2023-2024,Matchweek 13,2023-11-10,21:00,Fri,Celta Vigo,Athletic Club,Away,L,3,4,42.0,44435.0,Iago Aspas,4-4-2,Juan Pulido,0,2,21,4,2
+La Liga,2023-2024,Matchweek 14,2023-11-25,16:15,Sat,Celta Vigo,Valencia,Away,D,0,0,45.0,43375.0,Iago Aspas,4-4-2,César Soto,0,18,16,5,0
+La Liga,2023-2024,Matchweek 15,2023-12-04,21:00,Mon,Celta Vigo,Cádiz,Home,D,1,1,68.0,17302.0,Iago Aspas,4-4-2,Jesús Gil,1,7,21,0,0
+La Liga,2023-2024,Matchweek 16,2023-12-11,21:00,Mon,Celta Vigo,Rayo Vallecano,Away,D,0,0,37.0,11796.0,Kevin Vázquez,4-4-2,Víctor García,0,14,21,0,0
+La Liga,2023-2024,Matchweek 17,2023-12-16,14:00,Sat,Celta Vigo,Granada,Home,W,1,0,39.0,18027.0,Iago Aspas,4-4-2,José Sánchez,1,10,14,5,1
+La Liga,2023-2024,Matchweek 18,2023-12-20,21:30,Wed,Celta Vigo,Villarreal,Away,L,2,3,51.0,14687.0,Kevin Vázquez,4-4-2,César Soto,0,19,21,2,2
+La Liga,2023-2024,Matchweek 19,2024-01-03,19:15,Wed,Celta Vigo,Betis,Home,W,2,1,40.0,21105.0,Iago Aspas,4-4-2,Miguel Ángel Ortiz Arias,1,5,19,2,1
+La Liga,2023-2024,Matchweek 20,2024-01-13,16:15,Sat,Celta Vigo,Mallorca,Away,D,1,1,43.0,21130.0,Iago Aspas,5-3-2,Víctor García,0,12,16,5,0
+La Liga,2023-2024,Matchweek 21,2024-01-20,21:00,Sat,Celta Vigo,Real Sociedad,Home,L,0,1,49.0,20901.0,Iago Aspas,4-4-2,Jorge Figueroa,1,16,21,5,2
+La Liga,2023-2024,Matchweek 22,2024-01-28,14:00,Sun,Celta Vigo,Girona,Home,L,0,1,40.0,20684.0,Iago Aspas,3-4-3,Mario Melero,1,9,14,6,2
+La Liga,2023-2024,Matchweek 23,2024-02-04,16:15,Sun,Celta Vigo,Osasuna,Away,W,3,0,30.0,20030.0,Renato Tapia,3-4-3,Javier Alberola,0,13,16,6,1
+La Liga,2023-2024,Matchweek 24,2024-02-11,14:00,Sun,Celta Vigo,Getafe,Away,L,2,3,52.0,11502.0,Renato Tapia,3-4-3,Alejandro Hernández,0,8,14,6,2
+La Liga,2023-2024,Matchweek 25,2024-02-17,18:30,Sat,Celta Vigo,Barcelona,Home,L,1,2,34.0,23096.0,Iago Aspas,4-4-2,Juan Pulido,1,4,18,5,2
+La Liga,2023-2024,Matchweek 26,2024-02-25,14:00,Sun,Celta Vigo,Cádiz,Away,D,2,2,35.0,18123.0,Iago Aspas,4-4-2,Miguel Ángel Ortiz Arias,0,7,14,6,0
+La Liga,2023-2024,Matchweek 27,2024-03-01,21:00,Fri,Celta Vigo,Almería,Home,W,1,0,66.0,18005.0,Carl Starfelt,4-4-2,José Sánchez,1,1,21,4,1
+La Liga,2023-2024,Matchweek 28,2024-03-10,18:30,Sun,Celta Vigo,Real Madrid,Away,L,0,4,38.0,73644.0,Iago Aspas,5-3-2,Mario Melero,0,15,18,6,2
+La Liga,2023-2024,Matchweek 29,2024-03-17,14:00,Sun,Celta Vigo,Sevilla,Away,W,2,1,64.0,36544.0,Iago Aspas,3-4-3,Francisco Hernández,0,17,14,6,1
+La Liga,2023-2024,Matchweek 30,2024-03-31,14:00,Sun,Celta Vigo,Rayo Vallecano,Home,D,0,0,61.0,21505.0,Iago Aspas,3-4-3,Alejandro Hernández,1,14,14,6,0
+La Liga,2023-2024,Matchweek 31,2024-04-12,21:00,Fri,Celta Vigo,Betis,Away,L,1,2,53.0,48938.0,Iago Aspas,3-4-3,Juan Martínez,0,5,21,4,2
+La Liga,2023-2024,Matchweek 32,2024-04-20,14:00,Sat,Celta Vigo,Las Palmas,Home,W,4,1,32.0,21256.0,Iago Aspas,3-4-3,Francisco Hernández,1,11,14,5,1
+La Liga,2023-2024,Matchweek 33,2024-04-27,18:30,Sat,Celta Vigo,Alavés,Away,L,0,3,62.0,18039.0,Iago Aspas,3-4-3,Juan Pulido,0,0,18,5,2
+La Liga,2023-2024,Matchweek 34,2024-05-05,16:15,Sun,Celta Vigo,Villarreal,Home,W,3,2,53.0,19548.0,Iago Aspas,3-4-3,César Soto,1,19,16,6,1
+La Liga,2023-2024,Matchweek 35,2024-05-12,16:15,Sun,Celta Vigo,Atlético Madrid,Away,L,0,1,44.0,63014.0,Iago Aspas,3-4-3,Jorge Figueroa,0,3,16,6,2
+La Liga,2023-2024,Matchweek 36,2024-05-15,22:00,Wed,Celta Vigo,Athletic Club,Home,W,2,1,53.0,21301.0,Iván Villar,3-4-3,Víctor García,1,2,22,2,1
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Celta Vigo,Granada,Away,W,2,1,51.0,11473.0,Iago Aspas,3-5-2,Javier Alberola,0,10,19,6,1
+La Liga,2023-2024,Matchweek 38,2024-05-26,16:15,Sun,Celta Vigo,Valencia,Home,D,2,2,54.0,21878.0,Iago Aspas,3-4-3,Miguel Ángel Ortiz Arias,1,18,16,6,0
+La Liga,2023-2024,Matchweek 1,2023-08-11,22:00,Fri,Sevilla,Valencia,Home,L,1,2,55.0,34184.0,Jesús Navas,4-2-3-1,José Sánchez,1,18,22,4,2
+La Liga,2023-2024,Matchweek 2,2023-08-21,19:00,Mon,Sevilla,Alavés,Away,L,3,4,66.0,15308.0,Jesús Navas,4-2-3-1,Guillermo Cuadra,0,0,19,0,2
+La Liga,2023-2024,Matchweek 3,2023-08-26,21:30,Sat,Sevilla,Girona,Home,L,1,2,52.0,29304.0,Jesús Navas,4-2-3-1,Jesús Gil,1,9,21,5,2
+La Liga,2023-2024,Matchweek 5,2023-09-17,18:30,Sun,Sevilla,Las Palmas,Home,W,1,0,43.0,40578.0,Jesús Navas,4-2-3-1,Juan Martínez,1,11,18,6,1
+La Liga,2023-2024,Matchweek 6,2023-09-23,16:15,Sat,Sevilla,Osasuna,Away,D,0,0,56.0,19670.0,Ivan Rakitić,4-2-3-1,Javier Villanueva,0,13,16,5,0
+La Liga,2023-2024,Matchweek 7,2023-09-26,19:00,Tue,Sevilla,Almería,Home,W,5,1,46.0,35729.0,Jesús Navas,4-2-3-1,Guillermo Cuadra,1,1,19,1,1
+La Liga,2023-2024,Matchweek 8,2023-09-29,21:00,Fri,Sevilla,Barcelona,Away,L,0,1,42.0,41116.0,Ivan Rakitić,4-2-3-1,Miguel Ángel Ortiz Arias,0,4,21,4,2
+La Liga,2023-2024,Matchweek 9,2023-10-07,21:00,Sat,Sevilla,Rayo Vallecano,Home,D,2,2,64.0,35817.0,Fernando,4-2-3-1,Isidro Díaz de Mera,1,14,21,5,0
+La Liga,2023-2024,Matchweek 10,2023-10-21,18:30,Sat,Sevilla,Real Madrid,Home,D,1,1,49.0,41212.0,Jesús Navas,4-3-3,Ricardo de Burgos,1,15,18,5,0
+La Liga,2023-2024,Matchweek 11,2023-10-28,21:00,Sat,Sevilla,Cádiz,Away,D,2,2,66.0,18886.0,Ivan Rakitić,4-3-3,César Soto,0,7,21,5,0
+La Liga,2023-2024,Matchweek 12,2023-11-04,18:30,Sat,Sevilla,Celta Vigo,Away,D,1,1,61.0,19023.0,Jesús Navas,4-3-3,Alejandro Hernández,0,6,18,5,0
+La Liga,2023-2024,Matchweek 13,2023-11-12,18:30,Sun,Sevilla,Betis,Home,D,1,1,61.0,42222.0,Jesús Navas,4-1-4-1,Jesús Gil,1,5,18,6,0
+La Liga,2023-2024,Matchweek 14,2023-11-26,16:15,Sun,Sevilla,Real Sociedad,Away,L,1,2,51.0,33879.0,Jesús Navas,4-2-3-1,Miguel Ángel Ortiz Arias,0,16,16,6,2
+La Liga,2023-2024,Matchweek 15,2023-12-03,18:30,Sun,Sevilla,Villarreal,Home,D,1,1,57.0,33898.0,Ivan Rakitić,4-3-3,Isidro Díaz de Mera,1,19,18,6,0
+La Liga,2023-2024,Matchweek 16,2023-12-09,21:00,Sat,Sevilla,Mallorca,Away,L,0,1,65.0,16041.0,Ivan Rakitić,4-3-3,Javier Alberola,0,12,21,5,2
+La Liga,2023-2024,Matchweek 17,2023-12-16,18:30,Sat,Sevilla,Getafe,Home,L,0,3,57.0,30005.0,Ivan Rakitić,5-3-2,Juan Pulido,1,8,18,5,2
+La Liga,2023-2024,Matchweek 18,2023-12-19,21:30,Tue,Sevilla,Granada,Away,W,3,0,48.0,16534.0,Sergio Ramos,3-5-2,Mateo Busquets,0,10,21,1,1
+La Liga,2023-2024,Matchweek 4,2023-12-23,16:15,Sat,Sevilla,Atlético Madrid,Away,L,0,1,50.0,64308.0,Ivan Rakitić,3-5-2,César Soto,0,3,16,5,2
+La Liga,2023-2024,Matchweek 19,2024-01-04,19:15,Thu,Sevilla,Athletic Club,Home,L,0,2,61.0,28366.0,Sergio Ramos,5-3-2,José Sánchez,1,2,19,3,2
+La Liga,2023-2024,Matchweek 20,2024-01-12,21:00,Fri,Sevilla,Alavés,Home,L,2,3,68.0,34225.0,Jesús Navas,4-4-2,Alejandro Hernández,1,0,21,4,2
+La Liga,2023-2024,Matchweek 21,2024-01-21,21:00,Sun,Sevilla,Girona,Away,L,1,5,45.0,13092.0,Jesús Navas,5-3-2,Pablo González,0,9,21,6,2
+La Liga,2023-2024,Matchweek 22,2024-01-28,18:30,Sun,Sevilla,Osasuna,Home,D,1,1,44.0,36640.0,Jesús Navas,3-5-2,Guillermo Cuadra,1,13,18,6,0
+La Liga,2023-2024,Matchweek 23,2024-02-05,21:00,Mon,Sevilla,Rayo Vallecano,Away,W,2,1,34.0,12546.0,Jesús Navas,4-4-2,Francisco Hernández,0,14,21,0,1
+La Liga,2023-2024,Matchweek 24,2024-02-11,18:30,Sun,Sevilla,Atlético Madrid,Home,W,1,0,39.0,31528.0,Jesús Navas,4-4-2,Javier Villanueva,1,3,18,6,1
+La Liga,2023-2024,Matchweek 25,2024-02-17,21:00,Sat,Sevilla,Valencia,Away,D,0,0,46.0,44506.0,Jesús Navas,3-5-2,César Soto,0,18,21,5,0
+La Liga,2023-2024,Matchweek 26,2024-02-25,21:00,Sun,Sevilla,Real Madrid,Away,L,0,1,36.0,74969.0,Sergio Ramos,5-3-2,Isidro Díaz de Mera,0,15,21,6,2
+La Liga,2023-2024,Matchweek 27,2024-03-02,14:00,Sat,Sevilla,Real Sociedad,Home,W,3,2,39.0,35884.0,Jesús Navas,5-3-2,Mateo Busquets,1,16,14,5,1
+La Liga,2023-2024,Matchweek 28,2024-03-11,21:00,Mon,Sevilla,Almería,Away,D,2,2,56.0,13095.0,Jesús Navas,5-3-2,Ricardo de Burgos,0,1,21,0,0
+La Liga,2023-2024,Matchweek 29,2024-03-17,14:00,Sun,Sevilla,Celta Vigo,Home,L,1,2,36.0,36544.0,Jesús Navas,5-3-2,Francisco Hernández,1,6,14,6,2
+La Liga,2023-2024,Matchweek 30,2024-03-30,14:00,Sat,Sevilla,Getafe,Away,W,1,0,34.0,10139.0,Sergio Ramos,5-3-2,Javier Villanueva,0,8,14,5,1
+La Liga,2023-2024,Matchweek 31,2024-04-14,13:00,Sun,Sevilla,Las Palmas,Away,W,2,0,37.0,23698.0,Sergio Ramos,5-3-2,Alejandro Muñíz,0,11,13,6,1
+La Liga,2023-2024,Matchweek 32,2024-04-22,21:00,Mon,Sevilla,Mallorca,Home,W,2,1,54.0,35203.0,Jesús Navas,5-3-2,Alejandro Hernández,1,12,21,0,1
+La Liga,2023-2024,Matchweek 33,2024-04-28,21:00,Sun,Sevilla,Betis,Away,D,1,1,50.0,55770.0,Jesús Navas,4-4-2,José Sánchez,0,5,21,6,0
+La Liga,2023-2024,Matchweek 34,2024-05-05,21:00,Sun,Sevilla,Granada,Home,W,3,0,60.0,32658.0,Jesús Navas,3-4-3,Mateo Busquets,1,10,21,6,1
+La Liga,2023-2024,Matchweek 35,2024-05-11,16:15,Sat,Sevilla,Villarreal,Away,L,2,3,41.0,16862.0,Jesús Navas,5-3-2,Isidro Díaz de Mera,0,19,16,5,2
+La Liga,2023-2024,Matchweek 36,2024-05-15,19:30,Wed,Sevilla,Cádiz,Home,L,0,1,56.0,35805.0,Jesús Navas,5-3-2,Miguel Ángel Ortiz Arias,1,7,19,2,2
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Sevilla,Athletic Club,Away,L,0,2,47.0,44717.0,Jesús Navas,3-4-3,Juan Pulido,0,2,19,6,2
+La Liga,2023-2024,Matchweek 38,2024-05-26,21:00,Sun,Sevilla,Barcelona,Home,L,1,2,39.0,34888.0,Sergio Ramos,3-4-3,Javier Villanueva,1,4,21,6,2
+La Liga,2023-2024,Matchweek 1,2023-08-12,18:30,Sat,Mallorca,Las Palmas,Away,D,1,1,32.0,24100.0,Dani Rodríguez,5-3-2,Víctor García,0,11,18,5,0
+La Liga,2023-2024,Matchweek 2,2023-08-18,19:30,Fri,Mallorca,Villarreal,Home,L,0,1,40.0,17775.0,Antonio Raillo,5-3-2,Javier Alberola,1,19,19,4,2
+La Liga,2023-2024,Matchweek 3,2023-08-26,19:30,Sat,Mallorca,Granada,Away,L,2,3,47.0,16368.0,Dani Rodríguez,5-3-2,Francisco Hernández,0,10,19,5,2
+La Liga,2023-2024,Matchweek 4,2023-09-03,16:15,Sun,Mallorca,Athletic Club,Home,D,0,0,33.0,17043.0,Dani Rodríguez,5-3-2,Jorge Figueroa,1,2,16,6,0
+La Liga,2023-2024,Matchweek 5,2023-09-16,18:30,Sat,Mallorca,Celta Vigo,Away,W,1,0,40.0,18693.0,Dani Rodríguez,5-4-1,José Luis Munuera,0,6,18,5,1
+La Liga,2023-2024,Matchweek 6,2023-09-23,14:00,Sat,Mallorca,Girona,Away,L,3,5,44.0,11511.0,Dani Rodríguez,5-4-1,Pablo González,0,9,14,5,2
+La Liga,2023-2024,Matchweek 7,2023-09-26,21:30,Tue,Mallorca,Barcelona,Home,D,2,2,31.0,19939.0,Dani Rodríguez,5-3-2,Alejandro Muñíz,1,4,21,1,0
+La Liga,2023-2024,Matchweek 8,2023-09-30,16:15,Sat,Mallorca,Rayo Vallecano,Away,D,2,2,40.0,11991.0,Dani Rodríguez,4-4-2,Mario Melero,0,14,16,5,0
+La Liga,2023-2024,Matchweek 9,2023-10-07,18:30,Sat,Mallorca,Valencia,Home,D,1,1,49.0,17659.0,Dani Rodríguez,4-4-2,Francisco Hernández,1,18,18,5,0
+La Liga,2023-2024,Matchweek 10,2023-10-21,14:00,Sat,Mallorca,Real Sociedad,Away,L,0,1,44.0,31279.0,Dani Rodríguez,5-3-2,Jorge Figueroa,0,16,14,5,2
+La Liga,2023-2024,Matchweek 11,2023-10-28,18:30,Sat,Mallorca,Getafe,Home,D,0,0,59.0,15310.0,Dani Rodríguez,4-4-2,Pablo González,1,8,18,5,0
+La Liga,2023-2024,Matchweek 12,2023-11-04,16:15,Sat,Mallorca,Betis,Away,L,0,2,43.0,50909.0,Antonio Raillo,5-3-2,Miguel Ángel Ortiz Arias,0,5,16,5,2
+La Liga,2023-2024,Matchweek 14,2023-11-25,21:00,Sat,Mallorca,Atlético Madrid,Away,L,0,1,32.0,58119.0,Dani Rodríguez,5-4-1,Juan Martínez,0,3,21,5,2
+La Liga,2023-2024,Matchweek 13,2023-11-29,21:00,Wed,Mallorca,Cádiz,Home,D,1,1,67.0,13821.0,Antonio Raillo,5-3-2,Javier Villanueva,1,7,21,2,0
+La Liga,2023-2024,Matchweek 15,2023-12-03,14:00,Sun,Mallorca,Alavés,Home,D,0,0,63.0,15090.0,Antonio Raillo,4-2-3-1,Jorge Figueroa,1,0,14,6,0
+La Liga,2023-2024,Matchweek 16,2023-12-09,21:00,Sat,Mallorca,Sevilla,Home,W,1,0,35.0,16041.0,Antonio Raillo,3-5-1-1,Javier Alberola,1,17,21,5,1
+La Liga,2023-2024,Matchweek 17,2023-12-17,14:00,Sun,Mallorca,Almería,Away,D,0,0,47.0,11936.0,Antonio Raillo,3-4-3,Pablo González,0,1,14,6,0
+La Liga,2023-2024,Matchweek 18,2023-12-21,21:30,Thu,Mallorca,Osasuna,Home,W,3,2,42.0,14192.0,Antonio Raillo,3-4-3,Mario Melero,1,13,21,3,1
+La Liga,2023-2024,Matchweek 19,2024-01-03,19:15,Wed,Mallorca,Real Madrid,Away,L,0,1,33.0,72394.0,Antonio Raillo,5-4-1,Alejandro Muñíz,0,15,19,2,2
+La Liga,2023-2024,Matchweek 20,2024-01-13,16:15,Sat,Mallorca,Celta Vigo,Home,D,1,1,57.0,21130.0,Antonio Raillo,5-4-1,Víctor García,1,6,16,5,0
+La Liga,2023-2024,Matchweek 21,2024-01-20,16:15,Sat,Mallorca,Villarreal,Away,D,1,1,49.0,16479.0,Antonio Raillo,5-4-1,Miguel Ángel Ortiz Arias,0,19,16,5,0
+La Liga,2023-2024,Matchweek 22,2024-01-27,21:00,Sat,Mallorca,Betis,Home,L,0,1,53.0,20051.0,Antonio Raillo,5-3-2,Javier Villanueva,1,5,21,5,2
+La Liga,2023-2024,Matchweek 23,2024-02-02,21:00,Fri,Mallorca,Athletic Club,Away,L,0,4,38.0,47061.0,Antonio Raillo,5-4-1,Jorge Figueroa,0,2,21,4,2
+La Liga,2023-2024,Matchweek 24,2024-02-11,16:15,Sun,Mallorca,Rayo Vallecano,Home,W,2,1,49.0,16735.0,Antonio Raillo,5-4-1,José Luis Munuera,1,14,16,6,1
+La Liga,2023-2024,Matchweek 25,2024-02-18,18:30,Sun,Mallorca,Real Sociedad,Home,L,1,2,33.0,18153.0,Antonio Raillo,5-3-2,Pablo González,1,16,18,6,2
+La Liga,2023-2024,Matchweek 26,2024-02-24,18:30,Sat,Mallorca,Alavés,Away,D,1,1,48.0,16102.0,Martin Valjent,5-4-1,Víctor García,0,0,18,5,0
+La Liga,2023-2024,Matchweek 27,2024-03-03,18:30,Sun,Mallorca,Girona,Home,W,1,0,40.0,17769.0,Antonio Raillo,5-3-2,Francisco Hernández,1,9,18,6,1
+La Liga,2023-2024,Matchweek 28,2024-03-08,21:00,Fri,Mallorca,Barcelona,Away,L,0,1,37.0,38225.0,Antonio Raillo,5-3-2,Javier Villanueva,0,4,21,4,2
+La Liga,2023-2024,Matchweek 29,2024-03-16,14:00,Sat,Mallorca,Granada,Home,W,1,0,52.0,16477.0,Antonio Raillo,5-3-2,Ricardo de Burgos,1,10,14,5,1
+La Liga,2023-2024,Matchweek 30,2024-03-30,18:30,Sat,Mallorca,Valencia,Away,D,0,0,47.0,42567.0,Jaume Costa,5-3-2,Miguel Ángel Ortiz Arias,0,18,18,5,0
+La Liga,2023-2024,Matchweek 31,2024-04-13,18:30,Sat,Mallorca,Real Madrid,Home,L,0,1,44.0,23244.0,Antonio Raillo,5-4-1,José Sánchez,1,15,18,5,2
+La Liga,2023-2024,Matchweek 32,2024-04-22,21:00,Mon,Mallorca,Sevilla,Away,L,1,2,46.0,35203.0,Antonio Raillo,5-4-1,Alejandro Hernández,0,17,21,0,2
+La Liga,2023-2024,Matchweek 33,2024-04-28,14:00,Sun,Mallorca,Cádiz,Away,D,1,1,42.0,18174.0,Antonio Raillo,5-4-1,Isidro Díaz de Mera,0,7,14,6,0
+La Liga,2023-2024,Matchweek 34,2024-05-04,21:00,Sat,Mallorca,Atlético Madrid,Home,L,0,1,59.0,20519.0,Antonio Raillo,5-3-2,Javier Alberola,1,3,21,5,2
+La Liga,2023-2024,Matchweek 35,2024-05-11,14:00,Sat,Mallorca,Las Palmas,Home,W,1,0,44.0,16050.0,Antonio Raillo,5-3-2,Juan Martínez,1,11,14,5,1
+La Liga,2023-2024,Matchweek 36,2024-05-14,19:30,Tue,Mallorca,Osasuna,Away,D,1,1,48.0,17852.0,Antonio Raillo,5-4-1,Francisco Hernández,0,13,19,1,0
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Mallorca,Almería,Home,D,2,2,52.0,20573.0,Antonio Raillo,5-3-2,Ricardo de Burgos,1,1,19,6,0
+La Liga,2023-2024,Matchweek 38,2024-05-26,14:00,Sun,Mallorca,Getafe,Away,W,2,1,50.0,9545.0,Antonio Raillo,4-1-4-1,Víctor García,0,8,14,6,1
+La Liga,2023-2024,Matchweek 1,2023-08-12,18:30,Sat,Las Palmas,Mallorca,Home,D,1,1,68.0,24100.0,Jonathan Viera,4-5-1,Víctor García,1,12,18,5,0
+La Liga,2023-2024,Matchweek 2,2023-08-18,21:30,Fri,Las Palmas,Valencia,Away,L,0,1,61.0,41053.0,Jonathan Viera,4-3-3,Javier Villanueva,0,18,21,4,2
+La Liga,2023-2024,Matchweek 3,2023-08-25,18:30,Fri,Las Palmas,Real Sociedad,Home,D,0,0,52.0,25335.0,Jonathan Viera,4-3-3,Guillermo Cuadra,1,16,18,4,0
+La Liga,2023-2024,Matchweek 4,2023-09-03,14:00,Sun,Las Palmas,Girona,Away,L,0,1,54.0,11619.0,Jonathan Viera,4-2-3-1,Mateo Busquets,0,9,14,6,2
+La Liga,2023-2024,Matchweek 5,2023-09-17,18:30,Sun,Las Palmas,Sevilla,Away,L,0,1,57.0,40578.0,Jonathan Viera,4-2-3-1,Juan Martínez,0,17,18,6,2
+La Liga,2023-2024,Matchweek 6,2023-09-24,17:30,Sun,Las Palmas,Granada,Home,W,1,0,56.0,24848.0,Jonathan Viera,4-5-1,Ricardo de Burgos,1,10,17,6,1
+La Liga,2023-2024,Matchweek 7,2023-09-27,19:00,Wed,Las Palmas,Real Madrid,Away,L,0,2,52.0,65017.0,Jonathan Viera,4-5-1,José Luis Munuera,0,15,19,2,2
+La Liga,2023-2024,Matchweek 8,2023-10-02,20:00,Mon,Las Palmas,Celta Vigo,Home,W,2,1,73.0,22472.0,Kirian Rodríguez,4-5-1,Javier Alberola,1,6,20,0,1
+La Liga,2023-2024,Matchweek 9,2023-10-08,14:00,Sun,Las Palmas,Villarreal,Away,W,2,1,51.0,16249.0,Kirian Rodríguez,4-5-1,Alejandro Muñíz,0,19,14,6,1
+La Liga,2023-2024,Matchweek 10,2023-10-22,13:00,Sun,Las Palmas,Rayo Vallecano,Home,L,0,1,60.0,24548.0,Kirian Rodríguez,4-5-1,Javier Villanueva,1,14,13,6,2
+La Liga,2023-2024,Matchweek 11,2023-10-28,14:00,Sat,Las Palmas,Almería,Away,W,2,1,59.0,12132.0,Kirian Rodríguez,4-5-1,Francisco Hernández,0,1,14,5,1
+La Liga,2023-2024,Matchweek 12,2023-11-03,20:00,Fri,Las Palmas,Atlético Madrid,Home,W,2,1,52.0,30080.0,Kirian Rodríguez,4-5-1,Mario Melero,1,3,20,4,1
+La Liga,2023-2024,Matchweek 13,2023-11-11,18:30,Sat,Las Palmas,Osasuna,Away,D,1,1,54.0,20125.0,Kirian Rodríguez,4-1-4-1,Jorge Figueroa,0,13,18,5,0
+La Liga,2023-2024,Matchweek 14,2023-11-26,21:00,Sun,Las Palmas,Betis,Away,L,0,1,61.0,48132.0,Kirian Rodríguez,4-1-4-1,Víctor García,0,5,21,6,2
+La Liga,2023-2024,Matchweek 15,2023-12-01,20:00,Fri,Las Palmas,Getafe,Home,W,2,0,70.0,21912.0,Kirian Rodríguez,4-5-1,Mateo Busquets,1,8,20,4,1
+La Liga,2023-2024,Matchweek 16,2023-12-09,14:00,Sat,Las Palmas,Alavés,Away,W,1,0,59.0,15971.0,Kirian Rodríguez,4-5-1,José Luis Munuera,0,0,14,5,1
+La Liga,2023-2024,Matchweek 17,2023-12-17,17:30,Sun,Las Palmas,Cádiz,Home,D,1,1,64.0,25275.0,Kirian Rodríguez,4-5-1,Alejandro Muñíz,1,7,17,6,0
+La Liga,2023-2024,Matchweek 18,2023-12-20,21:30,Wed,Las Palmas,Athletic Club,Away,L,0,1,50.0,39471.0,Enzo Loiodice,4-5-1,Juan Martínez,0,2,21,2,2
+La Liga,2023-2024,Matchweek 19,2024-01-04,20:30,Thu,Las Palmas,Barcelona,Home,L,1,2,44.0,31712.0,Kirian Rodríguez,4-3-3,Pablo González,1,4,20,3,2
+La Liga,2023-2024,Matchweek 20,2024-01-13,13:00,Sat,Las Palmas,Villarreal,Home,W,3,0,54.0,24485.0,Kirian Rodríguez,4-3-3,Javier Villanueva,1,19,13,5,1
+La Liga,2023-2024,Matchweek 21,2024-01-20,14:00,Sat,Las Palmas,Rayo Vallecano,Away,W,2,0,55.0,12477.0,Kirian Rodríguez,4-5-1,Mario Melero,0,14,14,5,1
+La Liga,2023-2024,Matchweek 22,2024-01-27,15:15,Sat,Las Palmas,Real Madrid,Home,L,1,2,53.0,32037.0,Kirian Rodríguez,4-5-1,César Soto,1,15,15,5,2
+La Liga,2023-2024,Matchweek 23,2024-02-03,16:15,Sat,Las Palmas,Granada,Away,D,1,1,77.0,17941.0,Kirian Rodríguez,4-5-1,Mateo Busquets,0,10,16,5,0
+La Liga,2023-2024,Matchweek 24,2024-02-10,20:00,Sat,Las Palmas,Valencia,Home,W,2,0,72.0,25633.0,Kirian Rodríguez,4-5-1,Guillermo Cuadra,1,18,20,5,1
+La Liga,2023-2024,Matchweek 25,2024-02-17,14:00,Sat,Las Palmas,Atlético Madrid,Away,L,0,5,64.0,61196.0,Kirian Rodríguez,4-5-1,Jorge Figueroa,0,3,14,5,2
+La Liga,2023-2024,Matchweek 26,2024-02-25,17:30,Sun,Las Palmas,Osasuna,Home,D,1,1,71.0,25075.0,Kirian Rodríguez,4-5-1,José Luis Munuera,1,13,17,6,0
+La Liga,2023-2024,Matchweek 27,2024-03-02,18:30,Sat,Las Palmas,Getafe,Away,D,3,3,72.0,7623.0,Kirian Rodríguez,4-5-1,Pablo González,0,8,18,5,0
+La Liga,2023-2024,Matchweek 28,2024-03-10,15:15,Sun,Las Palmas,Athletic Club,Home,L,0,2,70.0,27316.0,Kirian Rodríguez,4-1-4-1,Miguel Ángel Ortiz Arias,1,2,15,6,2
+La Liga,2023-2024,Matchweek 29,2024-03-17,15:15,Sun,Las Palmas,Almería,Home,L,0,1,65.0,22865.0,Kirian Rodríguez,4-5-1,Víctor García,1,1,15,6,2
+La Liga,2023-2024,Matchweek 30,2024-03-30,21:00,Sat,Las Palmas,Barcelona,Away,L,0,1,31.0,46788.0,Kirian Rodríguez,4-5-1,Mateo Busquets,0,4,21,5,2
+La Liga,2023-2024,Matchweek 31,2024-04-14,13:00,Sun,Las Palmas,Sevilla,Home,L,0,2,63.0,23698.0,Kirian Rodríguez,4-5-1,Alejandro Muñíz,1,17,13,6,2
+La Liga,2023-2024,Matchweek 32,2024-04-20,14:00,Sat,Las Palmas,Celta Vigo,Away,L,1,4,68.0,21256.0,Kirian Rodríguez,4-5-1,Francisco Hernández,0,6,14,5,2
+La Liga,2023-2024,Matchweek 33,2024-04-27,13:00,Sat,Las Palmas,Girona,Home,L,0,2,61.0,18734.0,Kirian Rodríguez,4-5-1,Jorge Figueroa,1,9,13,5,2
+La Liga,2023-2024,Matchweek 34,2024-05-04,14:00,Sat,Las Palmas,Real Sociedad,Away,L,0,2,48.0,29330.0,Kirian Rodríguez,4-4-2,Miguel Ángel Ortiz Arias,0,16,14,5,2
+La Liga,2023-2024,Matchweek 35,2024-05-11,14:00,Sat,Las Palmas,Mallorca,Away,L,0,1,56.0,16050.0,Kirian Rodríguez,4-5-1,Juan Martínez,0,12,14,5,2
+La Liga,2023-2024,Matchweek 36,2024-05-16,18:30,Thu,Las Palmas,Betis,Home,D,2,2,57.0,22606.0,Kirian Rodríguez,4-2-3-1,Javier Villanueva,1,5,18,3,0
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Las Palmas,Cádiz,Away,D,0,0,51.0,18950.0,Kirian Rodríguez,4-3-3,César Soto,0,7,19,6,0
+La Liga,2023-2024,Matchweek 38,2024-05-26,15:15,Sun,Las Palmas,Alavés,Home,D,1,1,65.0,23043.0,Kirian Rodríguez,4-2-3-1,Francisco Hernández,1,0,15,6,0
+La Liga,2023-2024,Matchweek 1,2023-08-11,19:30,Fri,Rayo Vallecano,Almería,Away,W,2,0,40.0,14837.0,Óscar Trejo,4-2-3-1,Javier Alberola,0,1,19,4,1
+La Liga,2023-2024,Matchweek 2,2023-08-21,21:30,Mon,Rayo Vallecano,Granada,Away,W,2,0,52.0,17338.0,Óscar Trejo,4-4-2,Pablo González,0,10,21,0,1
+La Liga,2023-2024,Matchweek 3,2023-08-28,21:30,Mon,Rayo Vallecano,Atlético Madrid,Home,L,0,7,56.0,13966.0,Óscar Trejo,4-2-3-1,José Luis Munuera,1,3,21,0,2
+La Liga,2023-2024,Matchweek 4,2023-09-02,21:00,Sat,Rayo Vallecano,Betis,Away,L,0,1,45.0,50619.0,Óscar Valentín,4-4-2,Alejandro Muñíz,0,5,21,5,2
+La Liga,2023-2024,Matchweek 5,2023-09-15,21:00,Fri,Rayo Vallecano,Alavés,Home,W,2,0,51.0,12116.0,Óscar Valentín,4-2-3-1,Víctor García,1,0,21,4,1
+La Liga,2023-2024,Matchweek 6,2023-09-24,16:15,Sun,Rayo Vallecano,Villarreal,Home,D,1,1,42.0,12865.0,Óscar Valentín,4-2-3-1,Jorge Figueroa,1,19,16,6,0
+La Liga,2023-2024,Matchweek 7,2023-09-27,21:30,Wed,Rayo Vallecano,Cádiz,Away,D,0,0,48.0,18505.0,Óscar Valentín,4-2-3-1,Francisco Hernández,0,7,21,2,0
+La Liga,2023-2024,Matchweek 8,2023-09-30,16:15,Sat,Rayo Vallecano,Mallorca,Home,D,2,2,60.0,11991.0,Isaac Palazón Camacho,4-2-3-1,Mario Melero,1,12,16,5,0
+La Liga,2023-2024,Matchweek 9,2023-10-07,21:00,Sat,Rayo Vallecano,Sevilla,Away,D,2,2,36.0,35817.0,Óscar Valentín,4-4-2,Isidro Díaz de Mera,0,17,21,5,0
+La Liga,2023-2024,Matchweek 10,2023-10-22,13:00,Sun,Rayo Vallecano,Las Palmas,Away,W,1,0,40.0,24548.0,Óscar Valentín,4-4-2,Javier Villanueva,0,11,13,6,1
+La Liga,2023-2024,Matchweek 11,2023-10-29,16:15,Sun,Rayo Vallecano,Real Sociedad,Home,D,2,2,55.0,12790.0,Isaac Palazón Camacho,4-4-1-1,Mateo Busquets,1,16,16,6,0
+La Liga,2023-2024,Matchweek 12,2023-11-05,21:00,Sun,Rayo Vallecano,Real Madrid,Away,D,0,0,37.0,70220.0,Óscar Valentín,4-1-4-1,Juan Martínez,0,15,21,6,0
+La Liga,2023-2024,Matchweek 13,2023-11-11,14:00,Sat,Rayo Vallecano,Girona,Home,L,1,2,46.0,13177.0,Óscar Valentín,4-4-2,Pablo González,1,9,14,5,2
+La Liga,2023-2024,Matchweek 14,2023-11-25,14:00,Sat,Rayo Vallecano,Barcelona,Home,D,1,1,33.0,14148.0,Óscar Valentín,4-4-2,José Luis Munuera,1,4,14,5,0
+La Liga,2023-2024,Matchweek 15,2023-12-02,16:15,Sat,Rayo Vallecano,Athletic Club,Away,L,0,4,49.0,44689.0,Óscar Valentín,4-2-3-1,Francisco Hernández,0,2,16,5,2
+La Liga,2023-2024,Matchweek 16,2023-12-11,21:00,Mon,Rayo Vallecano,Celta Vigo,Home,D,0,0,63.0,11796.0,Óscar Valentín,4-2-3-1,Víctor García,1,6,21,0,0
+La Liga,2023-2024,Matchweek 17,2023-12-15,21:00,Fri,Rayo Vallecano,Osasuna,Away,L,0,1,40.0,18586.0,Óscar Valentín,4-4-2,Javier Villanueva,0,13,21,4,2
+La Liga,2023-2024,Matchweek 18,2023-12-19,19:00,Tue,Rayo Vallecano,Valencia,Home,L,0,1,59.0,12290.0,Isaac Palazón Camacho,4-4-2,Javier Alberola,1,18,19,1,2
+La Liga,2023-2024,Matchweek 19,2024-01-02,17:00,Tue,Rayo Vallecano,Getafe,Away,W,2,0,62.0,11204.0,Óscar Valentín,4-4-2,Jorge Figueroa,0,8,17,1,1
+La Liga,2023-2024,Matchweek 21,2024-01-20,14:00,Sat,Rayo Vallecano,Las Palmas,Home,L,0,2,45.0,12477.0,Óscar Valentín,4-4-2,Mario Melero,1,11,14,5,2
+La Liga,2023-2024,Matchweek 22,2024-01-27,14:00,Sat,Rayo Vallecano,Real Sociedad,Away,D,0,0,49.0,32528.0,Óscar Valentín,4-4-2,Alejandro Hernández,0,16,14,5,0
+La Liga,2023-2024,Matchweek 20,2024-01-31,21:00,Wed,Rayo Vallecano,Atlético Madrid,Away,L,1,2,46.0,47003.0,Óscar Valentín,3-4-3,César Soto,0,3,21,2,2
+La Liga,2023-2024,Matchweek 23,2024-02-05,21:00,Mon,Rayo Vallecano,Sevilla,Home,L,1,2,66.0,12546.0,Óscar Valentín,4-4-2,Francisco Hernández,1,17,21,0,2
+La Liga,2023-2024,Matchweek 24,2024-02-11,16:15,Sun,Rayo Vallecano,Mallorca,Away,L,1,2,51.0,16735.0,Óscar Valentín,4-2-3-1,José Luis Munuera,0,12,16,6,2
+La Liga,2023-2024,Matchweek 25,2024-02-18,14:00,Sun,Rayo Vallecano,Real Madrid,Home,D,1,1,41.0,14354.0,Óscar Valentín,4-4-2,Alejandro Muñíz,1,15,14,6,0
+La Liga,2023-2024,Matchweek 26,2024-02-26,21:00,Mon,Rayo Vallecano,Girona,Away,L,0,3,46.0,8923.0,Óscar Valentín,4-2-3-1,Ricardo de Burgos,0,9,21,0,2
+La Liga,2023-2024,Matchweek 27,2024-03-02,16:15,Sat,Rayo Vallecano,Cádiz,Home,D,1,1,53.0,12272.0,Óscar Valentín,4-2-3-1,Javier Alberola,1,7,16,5,0
+La Liga,2023-2024,Matchweek 28,2024-03-10,14:00,Sun,Rayo Vallecano,Alavés,Away,L,0,1,66.0,16519.0,Isaac Palazón Camacho,4-2-3-1,José Luis Munuera,0,0,14,6,2
+La Liga,2023-2024,Matchweek 29,2024-03-17,18:30,Sun,Rayo Vallecano,Betis,Home,W,2,0,39.0,13264.0,Óscar Valentín,4-2-3-1,Juan Pulido,1,5,18,6,1
+La Liga,2023-2024,Matchweek 30,2024-03-31,14:00,Sun,Rayo Vallecano,Celta Vigo,Away,D,0,0,39.0,21505.0,Óscar Valentín,4-2-3-1,Alejandro Hernández,0,6,14,6,0
+La Liga,2023-2024,Matchweek 31,2024-04-13,16:15,Sat,Rayo Vallecano,Getafe,Home,D,0,0,63.0,12868.0,Óscar Valentín,4-4-2,Jorge Figueroa,1,8,16,5,0
+La Liga,2023-2024,Matchweek 32,2024-04-20,16:15,Sat,Rayo Vallecano,Osasuna,Home,W,2,1,64.0,12617.0,Óscar Valentín,4-4-2,Mario Melero,1,13,16,5,1
+La Liga,2023-2024,Matchweek 33,2024-04-28,18:30,Sun,Rayo Vallecano,Villarreal,Away,L,0,3,54.0,17869.0,Isaac Palazón Camacho,4-2-3-1,Pablo González,0,19,18,6,2
+La Liga,2023-2024,Matchweek 34,2024-05-05,21:00,Sun,Rayo Vallecano,Almería,Home,L,0,1,68.0,10864.0,Óscar Valentín,4-4-2,Francisco Hernández,1,1,21,6,2
+La Liga,2023-2024,Matchweek 35,2024-05-12,18:30,Sun,Rayo Vallecano,Valencia,Away,D,0,0,49.0,42642.0,Óscar Valentín,4-2-3-1,Juan Pulido,0,18,18,6,0
+La Liga,2023-2024,Matchweek 36,2024-05-15,19:30,Wed,Rayo Vallecano,Granada,Home,W,2,1,33.0,12738.0,Óscar Valentín,4-2-3-1,Isidro Díaz de Mera,1,10,19,2,1
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Rayo Vallecano,Barcelona,Away,L,0,3,28.0,35823.0,Óscar Valentín,4-1-4-1,Jesús Gil,0,4,19,6,2
+La Liga,2023-2024,Matchweek 38,2024-05-25,18:30,Sat,Rayo Vallecano,Athletic Club,Home,L,0,1,63.0,13090.0,Radamel Falcao,4-2-3-1,José Luis Munuera,1,2,18,5,2
+La Liga,2023-2024,Matchweek 1,2023-08-14,19:30,Mon,Cadiz,Alavés,Home,W,1,0,45.0,19306.0,Fali,4-4-2,Isidro Díaz de Mera,1,0,19,0,1
+La Liga,2023-2024,Matchweek 2,2023-08-20,19:30,Sun,Cadiz,Barcelona,Away,L,0,2,26.0,39603.0,Álex Fernández,4-4-2,Alejandro Muñíz,0,4,19,6,2
+La Liga,2023-2024,Matchweek 3,2023-08-26,19:00,Sat,Cadiz,Almería,Home,D,1,1,52.0,18653.0,Isaac Carcelen,4-4-2,Víctor García,1,1,19,5,0
+La Liga,2023-2024,Matchweek 4,2023-09-01,19:30,Fri,Cadiz,Villarreal,Home,W,3,1,43.0,18557.0,Isaac Carcelen,4-4-2,Juan Pulido,1,19,19,4,1
+La Liga,2023-2024,Matchweek 5,2023-09-16,14:00,Sat,Cadiz,Athletic Club,Away,L,0,3,35.0,42881.0,Isaac Carcelen,4-4-2,Guillermo Cuadra,0,2,14,5,2
+La Liga,2023-2024,Matchweek 6,2023-09-24,18:30,Sun,Cadiz,Betis,Away,D,1,1,37.0,56087.0,Isaac Carcelen,4-4-2,Miguel Ángel Ortiz Arias,0,5,18,6,0
+La Liga,2023-2024,Matchweek 7,2023-09-27,21:30,Wed,Cadiz,Rayo Vallecano,Home,D,0,0,52.0,18505.0,Isaac Carcelen,4-4-2,Francisco Hernández,1,14,21,2,0
+La Liga,2023-2024,Matchweek 8,2023-10-01,21:00,Sun,Cadiz,Atlético Madrid,Away,L,2,3,31.0,53421.0,Jeremías Ledesma,5-3-2,Javier Villanueva,0,3,21,6,2
+La Liga,2023-2024,Matchweek 9,2023-10-07,14:00,Sat,Cadiz,Girona,Home,L,0,1,27.0,16438.0,Isaac Carcelen,4-4-2,Juan Martínez,1,9,14,5,2
+La Liga,2023-2024,Matchweek 10,2023-10-23,21:00,Mon,Cadiz,Valencia,Away,L,0,2,39.0,41647.0,Isaac Carcelen,4-4-2,Pablo González,0,18,21,0,2
+La Liga,2023-2024,Matchweek 11,2023-10-28,21:00,Sat,Cadiz,Sevilla,Home,D,2,2,34.0,18886.0,Isaac Carcelen,4-4-2,César Soto,1,17,21,5,0
+La Liga,2023-2024,Matchweek 12,2023-11-06,21:00,Mon,Cadiz,Getafe,Away,L,0,1,55.0,9853.0,Isaac Carcelen,4-4-2,Ricardo de Burgos,0,8,21,0,2
+La Liga,2023-2024,Matchweek 14,2023-11-26,18:30,Sun,Cadiz,Real Madrid,Home,L,0,3,39.0,20325.0,Jeremías Ledesma,5-4-1,Guillermo Cuadra,1,15,18,6,2
+La Liga,2023-2024,Matchweek 13,2023-11-29,21:00,Wed,Cadiz,Mallorca,Away,D,1,1,33.0,13821.0,Isaac Carcelen,4-4-2,Javier Villanueva,0,12,21,2,0
+La Liga,2023-2024,Matchweek 15,2023-12-04,21:00,Mon,Cadiz,Celta Vigo,Away,D,1,1,32.0,17302.0,Isaac Carcelen,4-4-2,Jesús Gil,0,6,21,0,0
+La Liga,2023-2024,Matchweek 16,2023-12-10,18:30,Sun,Cadiz,Osasuna,Home,D,1,1,45.0,18356.0,Isaac Carcelen,4-4-2,Juan Martínez,1,13,18,6,0
+La Liga,2023-2024,Matchweek 17,2023-12-17,17:30,Sun,Cadiz,Las Palmas,Away,D,1,1,36.0,25275.0,Isaac Carcelen,4-4-2,Alejandro Muñíz,0,11,17,6,0
+La Liga,2023-2024,Matchweek 18,2023-12-21,19:00,Thu,Cadiz,Real Sociedad,Home,D,0,0,40.0,17693.0,Isaac Carcelen,4-4-2,Javier Villanueva,1,16,19,3,0
+La Liga,2023-2024,Matchweek 19,2024-01-03,17:00,Wed,Cadiz,Granada,Away,L,0,2,45.0,17732.0,Isaac Carcelen,4-4-2,Juan Pulido,0,10,17,2,2
+La Liga,2023-2024,Matchweek 20,2024-01-14,16:15,Sun,Cadiz,Valencia,Home,L,1,4,57.0,18622.0,Isaac Carcelen,4-5-1,Isidro Díaz de Mera,1,18,16,6,2
+La Liga,2023-2024,Matchweek 21,2024-01-19,21:00,Fri,Cadiz,Alavés,Away,L,0,1,51.0,15838.0,Jeremías Ledesma,4-4-2,Alejandro Muñíz,0,0,21,4,2
+La Liga,2023-2024,Matchweek 22,2024-01-28,16:15,Sun,Cadiz,Athletic Club,Home,D,0,0,43.0,18839.0,Isaac Carcelen,4-4-2,Mateo Busquets,1,2,16,6,0
+La Liga,2023-2024,Matchweek 23,2024-02-04,14:00,Sun,Cadiz,Villarreal,Away,D,0,0,41.0,17183.0,Isaac Carcelen,4-4-2,Pablo González,0,19,14,6,0
+La Liga,2023-2024,Matchweek 24,2024-02-09,21:00,Fri,Cadiz,Betis,Home,L,0,2,53.0,15346.0,Jeremías Ledesma,4-4-2,Ricardo de Burgos,1,5,21,4,2
+La Liga,2023-2024,Matchweek 25,2024-02-17,16:15,Sat,Cadiz,Osasuna,Away,L,0,2,44.0,19525.0,Jeremías Ledesma,4-4-2,Francisco Hernández,0,13,16,5,2
+La Liga,2023-2024,Matchweek 26,2024-02-25,14:00,Sun,Cadiz,Celta Vigo,Home,D,2,2,65.0,18123.0,Jeremías Ledesma,4-4-2,Miguel Ángel Ortiz Arias,1,6,14,6,0
+La Liga,2023-2024,Matchweek 27,2024-03-02,16:15,Sat,Cadiz,Rayo Vallecano,Away,D,1,1,47.0,12272.0,Jeremías Ledesma,4-4-2,Javier Alberola,0,14,16,5,0
+La Liga,2023-2024,Matchweek 28,2024-03-09,16:15,Sat,Cadiz,Atlético Madrid,Home,W,2,0,40.0,15917.0,Jeremías Ledesma,4-4-2,Pablo González,1,3,16,5,1
+La Liga,2023-2024,Matchweek 29,2024-03-15,21:00,Fri,Cadiz,Real Sociedad,Away,L,0,2,37.0,31000.0,Jeremías Ledesma,4-4-2,César Soto,0,16,21,4,2
+La Liga,2023-2024,Matchweek 30,2024-03-29,21:00,Fri,Cadiz,Granada,Home,W,1,0,59.0,15422.0,Jeremías Ledesma,4-4-2,Guillermo Cuadra,1,10,21,4,1
+La Liga,2023-2024,Matchweek 31,2024-04-13,21:00,Sat,Cadiz,Barcelona,Home,L,0,1,38.0,19607.0,Jeremías Ledesma,4-4-2,Juan Pulido,1,4,21,5,2
+La Liga,2023-2024,Matchweek 32,2024-04-20,21:00,Sat,Cadiz,Girona,Away,L,1,4,43.0,12665.0,Jeremías Ledesma,4-4-2,Javier Alberola,0,9,21,5,2
+La Liga,2023-2024,Matchweek 33,2024-04-28,14:00,Sun,Cadiz,Mallorca,Home,D,1,1,58.0,18174.0,Jeremías Ledesma,4-4-2,Isidro Díaz de Mera,1,12,14,6,0
+La Liga,2023-2024,Matchweek 34,2024-05-04,16:15,Sat,Cadiz,Real Madrid,Away,L,0,3,30.0,72654.0,Jeremías Ledesma,4-5-1,Javier Villanueva,0,15,16,5,2
+La Liga,2023-2024,Matchweek 35,2024-05-12,14:00,Sun,Cadiz,Getafe,Home,W,1,0,45.0,16592.0,Jeremías Ledesma,4-4-2,Ricardo de Burgos,1,8,14,6,1
+La Liga,2023-2024,Matchweek 36,2024-05-15,19:30,Wed,Cadiz,Sevilla,Away,W,1,0,44.0,35805.0,Jeremías Ledesma,4-4-2,Miguel Ángel Ortiz Arias,0,17,19,2,1
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Cadiz,Las Palmas,Home,D,0,0,49.0,18950.0,Jeremías Ledesma,4-4-2,César Soto,1,11,19,6,0
+La Liga,2023-2024,Matchweek 38,2024-05-25,18:30,Sat,Cadiz,Almería,Away,L,1,6,54.0,7558.0,Álex Fernández,4-2-3-1,Mateo Busquets,0,1,18,5,2
+La Liga,2023-2024,Matchweek 1,2023-08-11,19:30,Fri,Almeria,Rayo Vallecano,Home,L,0,2,60.0,14837.0,Lucas Robertone,4-2-3-1,Javier Alberola,1,14,19,4,2
+La Liga,2023-2024,Matchweek 2,2023-08-19,19:30,Sat,Almeria,Real Madrid,Home,L,1,3,43.0,17561.0,Lucas Robertone,4-2-3-1,José Sánchez,1,15,19,5,2
+La Liga,2023-2024,Matchweek 3,2023-08-26,19:00,Sat,Almeria,Cádiz,Away,D,1,1,48.0,18653.0,Juan Brandáriz,4-2-3-1,Víctor García,0,7,19,5,0
+La Liga,2023-2024,Matchweek 4,2023-09-01,22:00,Fri,Almeria,Celta Vigo,Home,L,2,3,63.0,14196.0,Lucas Robertone,4-2-3-1,Ricardo de Burgos,1,6,22,4,2
+La Liga,2023-2024,Matchweek 5,2023-09-17,16:15,Sun,Almeria,Villarreal,Away,L,1,2,38.0,18467.0,Lucas Robertone,4-2-3-1,Francisco Hernández,0,19,16,6,2
+La Liga,2023-2024,Matchweek 6,2023-09-23,21:00,Sat,Almeria,Valencia,Home,D,2,2,61.0,14266.0,Lucas Robertone,4-2-3-1,Mateo Busquets,1,18,21,5,0
+La Liga,2023-2024,Matchweek 7,2023-09-26,19:00,Tue,Almeria,Sevilla,Away,L,1,5,54.0,35729.0,Gonzalo Melero,4-4-2,Guillermo Cuadra,0,17,19,1,2
+La Liga,2023-2024,Matchweek 8,2023-10-01,14:00,Sun,Almeria,Granada,Home,D,3,3,49.0,14264.0,Gonzalo Melero,4-3-3,Pablo González,1,10,14,6,0
+La Liga,2023-2024,Matchweek 9,2023-10-06,21:00,Fri,Almeria,Athletic Club,Away,L,0,3,41.0,43677.0,Adri Embarba,4-4-2,Víctor García,0,2,21,4,2
+La Liga,2023-2024,Matchweek 10,2023-10-22,16:15,Sun,Almeria,Girona,Away,L,2,5,34.0,12884.0,Lucas Robertone,4-2-3-1,Miguel Ángel Ortiz Arias,0,9,16,6,2
+La Liga,2023-2024,Matchweek 11,2023-10-28,14:00,Sat,Almeria,Las Palmas,Home,L,1,2,41.0,12132.0,Lucas Robertone,4-2-3-1,Francisco Hernández,1,11,14,5,2
+La Liga,2023-2024,Matchweek 12,2023-11-05,14:00,Sun,Almeria,Alavés,Away,L,0,1,44.0,16380.0,Lucas Robertone,4-2-3-1,Juan Pulido,0,0,14,6,2
+La Liga,2023-2024,Matchweek 13,2023-11-11,16:15,Sat,Almeria,Real Sociedad,Home,L,1,3,47.0,13016.0,Lucas Robertone,4-2-3-1,Isidro Díaz de Mera,1,16,16,5,2
+La Liga,2023-2024,Matchweek 14,2023-11-25,18:30,Sat,Almeria,Getafe,Away,L,1,2,47.0,10906.0,Lucas Robertone,4-2-3-1,Alejandro Hernández,0,8,18,5,2
+La Liga,2023-2024,Matchweek 15,2023-12-03,16:15,Sun,Almeria,Betis,Home,D,0,0,62.0,14253.0,Lucas Robertone,4-2-3-1,Alejandro Muñíz,1,5,16,6,0
+La Liga,2023-2024,Matchweek 16,2023-12-10,14:00,Sun,Almeria,Atlético Madrid,Away,L,1,2,43.0,55473.0,Lucas Robertone,3-4-1-2,Ricardo de Burgos,0,3,14,6,2
+La Liga,2023-2024,Matchweek 17,2023-12-17,14:00,Sun,Almeria,Mallorca,Home,D,0,0,53.0,11936.0,Lucas Robertone,3-4-3,Pablo González,1,12,14,6,0
+La Liga,2023-2024,Matchweek 18,2023-12-20,19:00,Wed,Almeria,Barcelona,Away,L,2,3,35.0,34471.0,Juan Brandáriz,5-3-2,Guillermo Cuadra,0,4,19,2,2
+La Liga,2023-2024,Matchweek 19,2024-01-04,17:00,Thu,Almeria,Osasuna,Away,L,0,1,48.0,20391.0,Lucas Robertone,4-2-3-1,César Soto,0,13,17,3,2
+La Liga,2023-2024,Matchweek 20,2024-01-14,14:00,Sun,Almeria,Girona,Home,D,0,0,46.0,12111.0,Lucas Robertone,4-1-4-1,Mateo Busquets,1,9,14,6,0
+La Liga,2023-2024,Matchweek 21,2024-01-21,16:15,Sun,Almeria,Real Madrid,Away,L,2,3,27.0,72044.0,Lucas Robertone,5-4-1,Francisco Hernández,0,15,16,6,2
+La Liga,2023-2024,Matchweek 22,2024-01-26,21:00,Fri,Almeria,Alavés,Home,L,0,3,64.0,13817.0,Lucas Robertone,4-2-3-1,Miguel Ángel Ortiz Arias,1,0,21,4,2
+La Liga,2023-2024,Matchweek 23,2024-02-03,14:00,Sat,Almeria,Valencia,Away,L,1,2,52.0,42877.0,Gonzalo Melero,4-2-3-1,Alejandro Muñíz,0,18,14,5,2
+La Liga,2023-2024,Matchweek 24,2024-02-12,21:00,Mon,Almeria,Athletic Club,Home,D,0,0,39.0,12863.0,Lucas Robertone,4-2-3-1,Víctor García,1,2,21,0,0
+La Liga,2023-2024,Matchweek 25,2024-02-18,16:15,Sun,Almeria,Granada,Away,D,1,1,42.0,18756.0,Lucas Robertone,4-2-3-1,Jesús Gil,0,10,16,6,0
+La Liga,2023-2024,Matchweek 26,2024-02-24,21:00,Sat,Almeria,Atlético Madrid,Home,D,2,2,40.0,14472.0,Lucas Robertone,4-2-3-1,Javier Alberola,1,3,21,5,0
+La Liga,2023-2024,Matchweek 27,2024-03-01,21:00,Fri,Almeria,Celta Vigo,Away,L,0,1,34.0,18005.0,Lucas Robertone,4-2-3-1,José Sánchez,0,6,21,4,2
+La Liga,2023-2024,Matchweek 28,2024-03-11,21:00,Mon,Almeria,Sevilla,Home,D,2,2,44.0,13095.0,Adri Embarba,4-2-3-1,Ricardo de Burgos,1,17,21,0,0
+La Liga,2023-2024,Matchweek 29,2024-03-17,15:15,Sun,Almeria,Las Palmas,Away,W,1,0,35.0,22865.0,Lucas Robertone,4-2-3-1,Víctor García,0,11,15,6,1
+La Liga,2023-2024,Matchweek 30,2024-03-30,16:15,Sat,Almeria,Osasuna,Home,L,0,3,51.0,10565.0,Lucas Robertone,4-3-3,Pablo González,1,13,16,5,2
+La Liga,2023-2024,Matchweek 31,2024-04-14,21:00,Sun,Almeria,Real Sociedad,Away,D,2,2,50.0,26520.0,Lucas Robertone,4-2-3-1,Isidro Díaz de Mera,0,16,21,6,0
+La Liga,2023-2024,Matchweek 32,2024-04-21,16:15,Sun,Almeria,Villarreal,Home,L,1,2,57.0,10601.0,Lucas Robertone,4-2-3-1,Miguel Ángel Ortiz Arias,1,19,16,6,2
+La Liga,2023-2024,Matchweek 33,2024-04-27,16:15,Sat,Almeria,Getafe,Home,L,1,3,56.0,7874.0,Lucas Robertone,4-2-3-1,Guillermo Cuadra,1,8,16,5,2
+La Liga,2023-2024,Matchweek 34,2024-05-05,21:00,Sun,Almeria,Rayo Vallecano,Away,W,1,0,32.0,10864.0,Adri Embarba,4-2-3-1,Francisco Hernández,0,14,21,6,1
+La Liga,2023-2024,Matchweek 35,2024-05-12,21:00,Sun,Almeria,Betis,Away,L,2,3,52.0,48622.0,Lucas Robertone,4-3-3,Alejandro Muñíz,0,5,21,6,2
+La Liga,2023-2024,Matchweek 36,2024-05-16,21:30,Thu,Almeria,Barcelona,Home,L,0,2,36.0,15543.0,Lucas Robertone,4-2-3-1,Javier Alberola,1,4,21,3,2
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Almeria,Mallorca,Away,D,2,2,48.0,20573.0,Fernando,4-2-3-1,Ricardo de Burgos,0,12,19,6,0
+La Liga,2023-2024,Matchweek 38,2024-05-25,18:30,Sat,Almeria,Cádiz,Home,W,6,1,46.0,7558.0,Fernando,4-2-3-1,Mateo Busquets,1,7,18,5,1
+La Liga,2023-2024,Matchweek 1,2023-08-14,21:30,Mon,Granada,Atlético Madrid,Away,L,1,3,54.0,56164.0,Carlos Neva,5-3-2,Juan Pulido,0,3,21,0,2
+La Liga,2023-2024,Matchweek 2,2023-08-21,21:30,Mon,Granada,Rayo Vallecano,Home,L,0,2,48.0,17338.0,Carlos Neva,4-3-3,Pablo González,1,14,21,0,2
+La Liga,2023-2024,Matchweek 3,2023-08-26,19:30,Sat,Granada,Mallorca,Home,W,3,2,53.0,16368.0,Carlos Neva,4-4-2,Francisco Hernández,1,12,19,5,1
+La Liga,2023-2024,Matchweek 4,2023-09-02,14:00,Sat,Granada,Real Sociedad,Away,L,3,5,39.0,27808.0,Víctor Díaz,3-4-3,Javier Villanueva,0,16,14,5,2
+La Liga,2023-2024,Matchweek 5,2023-09-18,21:00,Mon,Granada,Girona,Home,L,2,4,43.0,17323.0,Víctor Díaz,4-4-2,Isidro Díaz de Mera,1,9,21,0,2
+La Liga,2023-2024,Matchweek 6,2023-09-24,17:30,Sun,Granada,Las Palmas,Away,L,0,1,44.0,24848.0,Antonio Puertas,4-4-1-1,Ricardo de Burgos,0,11,17,6,2
+La Liga,2023-2024,Matchweek 7,2023-09-28,19:00,Thu,Granada,Betis,Home,D,1,1,39.0,18936.0,Antonio Puertas,4-4-2,Víctor García,1,5,19,3,0
+La Liga,2023-2024,Matchweek 8,2023-10-01,14:00,Sun,Granada,Almería,Away,D,3,3,51.0,14264.0,Antonio Puertas,4-4-2,Pablo González,0,1,14,6,0
+La Liga,2023-2024,Matchweek 9,2023-10-08,21:00,Sun,Granada,Barcelona,Home,D,2,2,20.0,20354.0,Carlos Neva,5-4-1,César Soto,1,4,21,6,0
+La Liga,2023-2024,Matchweek 10,2023-10-20,21:00,Fri,Granada,Osasuna,Away,L,0,2,42.0,19739.0,Carlos Neva,4-2-3-1,Mateo Busquets,0,13,21,4,2
+La Liga,2023-2024,Matchweek 11,2023-10-30,21:00,Mon,Granada,Villarreal,Home,L,2,3,46.0,16638.0,Antonio Puertas,4-2-3-1,Javier Villanueva,1,19,21,0,2
+La Liga,2023-2024,Matchweek 12,2023-11-05,16:15,Sun,Granada,Valencia,Away,L,0,1,49.0,44922.0,Carlos Neva,4-2-3-1,Víctor García,0,18,16,6,2
+La Liga,2023-2024,Matchweek 13,2023-11-11,18:30,Sat,Granada,Getafe,Home,D,1,1,58.0,18103.0,Carlos Neva,4-2-2-2,Alejandro Muñíz,1,8,18,5,0
+La Liga,2023-2024,Matchweek 14,2023-11-24,21:00,Fri,Granada,Alavés,Away,L,1,3,57.0,15705.0,Carlos Neva,4-3-3,Javier Alberola,0,0,21,4,2
+La Liga,2023-2024,Matchweek 15,2023-12-02,18:30,Sat,Granada,Real Madrid,Away,L,0,2,29.0,70685.0,Carlos Neva,4-4-2,Pablo González,0,15,18,5,2
+La Liga,2023-2024,Matchweek 16,2023-12-11,21:00,Mon,Granada,Athletic Club,Home,D,1,1,48.0,12849.0,Carlos Neva,4-2-3-1,Miguel Ángel Ortiz Arias,1,2,21,0,0
+La Liga,2023-2024,Matchweek 17,2023-12-16,14:00,Sat,Granada,Celta Vigo,Away,L,0,1,61.0,18027.0,Carlos Neva,4-2-3-1,José Sánchez,0,6,14,5,2
+La Liga,2023-2024,Matchweek 18,2023-12-19,21:30,Tue,Granada,Sevilla,Home,L,0,3,52.0,16534.0,Antonio Puertas,4-1-4-1,Mateo Busquets,1,17,21,1,2
+La Liga,2023-2024,Matchweek 19,2024-01-03,17:00,Wed,Granada,Cádiz,Home,W,2,0,55.0,17732.0,Carlos Neva,4-4-2,Juan Pulido,1,7,17,2,1
+La Liga,2023-2024,Matchweek 20,2024-01-13,21:00,Sat,Granada,Betis,Away,L,0,1,43.0,50197.0,Carlos Neva,4-4-2,Guillermo Cuadra,0,5,21,5,2
+La Liga,2023-2024,Matchweek 21,2024-01-22,21:00,Mon,Granada,Atlético Madrid,Home,L,0,1,53.0,18704.0,Carlos Neva,4-3-3,Juan Martínez,1,3,21,0,2
+La Liga,2023-2024,Matchweek 22,2024-01-29,21:00,Mon,Granada,Getafe,Away,L,0,2,60.0,10382.0,Carlos Neva,4-3-3,Víctor García,0,8,21,0,2
+La Liga,2023-2024,Matchweek 23,2024-02-03,16:15,Sat,Granada,Las Palmas,Home,D,1,1,23.0,17941.0,Carlos Neva,4-1-4-1,Mateo Busquets,1,11,16,5,0
+La Liga,2023-2024,Matchweek 24,2024-02-11,21:00,Sun,Granada,Barcelona,Away,D,3,3,35.0,41901.0,Ignasi Miquel,4-1-4-1,Miguel Ángel Ortiz Arias,0,4,21,6,0
+La Liga,2023-2024,Matchweek 25,2024-02-18,16:15,Sun,Granada,Almería,Home,D,1,1,58.0,18756.0,Carlos Neva,4-3-3,Jesús Gil,1,1,16,6,0
+La Liga,2023-2024,Matchweek 27,2024-03-03,14:00,Sun,Granada,Villarreal,Away,L,1,5,52.0,15896.0,Carlos Neva,3-4-3,Juan Pulido,0,19,14,6,2
+La Liga,2023-2024,Matchweek 28,2024-03-09,18:30,Sat,Granada,Real Sociedad,Home,L,2,3,37.0,9214.0,Carlos Neva,4-4-2,Juan Martínez,1,16,18,5,2
+La Liga,2023-2024,Matchweek 29,2024-03-16,14:00,Sat,Granada,Mallorca,Away,L,0,1,48.0,16477.0,Carlos Neva,4-4-2,Ricardo de Burgos,0,12,14,5,2
+La Liga,2023-2024,Matchweek 30,2024-03-29,21:00,Fri,Granada,Cádiz,Away,L,0,1,41.0,15422.0,Carlos Neva,5-4-1,Guillermo Cuadra,0,7,21,4,2
+La Liga,2023-2024,Matchweek 26,2024-04-04,20:00,Thu,Granada,Valencia,Home,L,0,1,57.0,15107.0,Carlos Neva,4-4-2,Alejandro Hernández,1,18,20,3,2
+La Liga,2023-2024,Matchweek 31,2024-04-14,16:15,Sun,Granada,Alavés,Home,W,2,0,38.0,13398.0,Carlos Neva,4-4-2,Víctor García,1,0,16,6,1
+La Liga,2023-2024,Matchweek 32,2024-04-19,21:00,Fri,Granada,Athletic Club,Away,D,1,1,33.0,45917.0,Antonio Puertas,4-4-2,Javier Villanueva,0,2,21,4,0
+La Liga,2023-2024,Matchweek 33,2024-04-28,16:15,Sun,Granada,Osasuna,Home,W,3,0,38.0,13825.0,Carlos Neva,4-4-2,Alejandro Muñíz,1,13,16,6,1
+La Liga,2023-2024,Matchweek 34,2024-05-05,21:00,Sun,Granada,Sevilla,Away,L,0,3,40.0,32658.0,Carlos Neva,4-4-2,Mateo Busquets,0,17,21,6,2
+La Liga,2023-2024,Matchweek 35,2024-05-11,18:30,Sat,Granada,Real Madrid,Home,L,0,4,42.0,20058.0,Carlos Neva,4-4-2,Pablo González,1,15,18,5,2
+La Liga,2023-2024,Matchweek 36,2024-05-15,19:30,Wed,Granada,Rayo Vallecano,Away,L,1,2,67.0,12738.0,Carlos Neva,4-2-3-1,Isidro Díaz de Mera,0,14,19,2,2
+La Liga,2023-2024,Matchweek 37,2024-05-19,19:00,Sun,Granada,Celta Vigo,Home,L,1,2,49.0,11473.0,Carlos Neva,4-3-3,Javier Alberola,1,6,19,6,2
+La Liga,2023-2024,Matchweek 38,2024-05-24,21:00,Fri,Granada,Girona,Away,L,0,7,30.0,12813.0,Sergio Ruiz,4-2-3-1,Alejandro Muñíz,0,9,21,4,2
